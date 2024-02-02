@@ -8,8 +8,8 @@ const BestDealSection: React.FC = () => {
       <section className="py-6 md:py-20  bg-gradient-to-b from-white to-yellow-300 overflow-x-hidden">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-10 items-center max-w-6xl mx-auto">
           <div className="px-4 md:mr-6 mt-2 animate-jump-in animate-ease-in-out">
-          <a
-              href="https://play.google.com/store/apps/details?id=app.iith.sunshine"
+            <a
+              href="https://play.google.com/store/apps/details?id=com.sunshine.iith"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center px-6 py-2 mb-2 text-white bg-black rounded-lg w-52"
@@ -48,7 +48,7 @@ const BestDealSection: React.FC = () => {
             <p className="mt-4 text-stone-800 text-xl font-medium">
               To help you reach out to us even more easily and quickly.
             </p>
-            
+
             <App />
           </div>
           <div className="animate-fade-left animate-ease-in-out">

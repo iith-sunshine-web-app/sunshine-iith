@@ -114,7 +114,7 @@ export default function FeaturesBlocks() {
               <div className="relative flex flex-col items-center">
                 <div className="w-72 h-80 relative overflow-hidden group">
                   <img
-                    src="https://sunshine.iith.ac.in/images/faculty/IMG_1257%20-%20Yukti%20Rastogi.JPG"
+                    src="./homepage/YuktiRastogi.jpg"
                     alt="Image 2"
                     className="w-full h-full object-cover transition-transform duration-300 transform scale-100 group-hover:scale-105"
                   />
@@ -176,7 +176,7 @@ export default function FeaturesBlocks() {
               <div className="relative flex flex-col items-center">
                 <div className="w-72 h-80 relative overflow-hidden group">
                   <img
-                    src="https://sunshine.iith.ac.in/images/faculty/phani.jpeg"
+                    src="./homepage/phani.jpeg"
                     alt="Image 2"
                     className="w-full h-full object-cover transition-transform duration-300 transform scale-100 group-hover:scale-105"
                   />
