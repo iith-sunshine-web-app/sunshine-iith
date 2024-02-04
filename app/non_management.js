@@ -16,6 +16,26 @@
 const non_management = {
   "UG Buddy": [
     {
+      name: "Devansh Agrawal ",
+      photoUrl:
+        "/team-2023/non-management/Your photo (File responses)/IMG_1511~2_1 - Devansh Agrawal.jpg",
+      email: "es22btech11010@iith.ac.in",
+      phone: "9667236662",
+      department: "Engineering Science",
+      about:
+        "Hi",
+    },
+    {
+      name: "Jash Jhatakia",
+      photoUrl:
+        "/team-2023/non-management/Your photo (File responses)/Screenshot_20230812_213529_WhatsApp - Jhatakia Jash Jayesh.jpg",
+      email: "cs22btech11028@iith.ac.in",
+      phone: "9426023104",
+      department: "Computer Science and Engineering",
+      about:
+        "Hi",
+    },
+    {
       name: "Kondaparthy Anuraga Chandan ",
       photoUrl:
         "/team-2023/non-management/Your photo (File responses)/PXL_20230925_180531732.MP~2 - Kondaparthy Anuraga Chandan.jpg",
@@ -237,6 +257,26 @@ const non_management = {
   ],
 
   "UG Mentor": [
+    {
+      name: "Riya Ann Easow",
+      photoUrl:
+        "/team-2023/non-management/Your photo (File responses)/IMG-20230603-WA0027 - Riya Ann Easow.jpg",
+      email: "ee21btech11044@iith.ac.in",
+      phone: "9353702544",
+      department: "Electrical Engineering ",
+      about:
+        "Hi",
+    },
+    {
+      name: "Kaustubh Gupta ",
+      photoUrl:
+        "/team-2023/non-management/Your photo (File responses)/sunshine - Kaustubh Gupta.jpg",
+      email: "es21btech11016@iith.ac.in",
+      phone: "8982255359",
+      department: "Engineering Science ",
+      about:
+        "Hi",
+    },
     {
       name: "Edara Yaswanth Balaji",
       photoUrl:
@@ -750,6 +790,16 @@ const non_management = {
   ],
   "PG Mentor": [
     {
+      name: "Teja",
+      photoUrl:
+        "/team-2023/non-management/Your photo (File responses)/My Pic less than 1 Mb - Bollam Teja.jpg",
+      email: "is22mtech11003@iith.ac.in",
+      phone: "8897247987",
+      department: "Civil",
+      about:
+        "Hi",
+    },
+    {
       name: "Jefrin Joji ",
       photoUrl:
         "/team-2023/non-management/Your photo (File responses)/IMG_5407~2 - Jefrin Joji.JPG",
@@ -921,6 +971,16 @@ const non_management = {
   ],
   "PHD Mentors": [
     {
+      name: "Suvitti",
+      photoUrl:
+        "/team-2023/non-management/Your photo (File responses)/IMG_20230405_174447 - Suvitti.jpg",
+      email: "ai21resch11005@iith.ac.in",
+      phone: "8901028748",
+      department: "Artificial Intelligence",
+      about:
+        "Hi",
+    },
+    {
       name: "Prachi Sharma ",
       photoUrl:
         "/team-2023/non-management/Your photo (File responses)/SquareFit_20210316_22413336 - PRACHI SHARMA.jpg",
@@ -1002,6 +1062,15 @@ const non_management = {
     },
   ],
   "PG Buddies": [
+    {
+      name: "Bharat Kumar",
+      photoUrl:
+        "/team-2023/non-management/Your photo (File responses)/IMG-20230813-WA0001 - Bharat Kumar.jpg",
+      email: "ms22mtech11009@iith.ac.in",
+      phone: "8299383445",
+      department: "Material Science and Metallurgical Engineering",
+      about: "Hi",
+    },
     {
       name: "Prakhar Gupta ",
       photoUrl:
@@ -1206,6 +1275,16 @@ const non_management = {
     },
   ],
   "PHD Buddies": [
+    {
+      name: "Abbishek",
+      photoUrl:
+        "/team-2023/non-management/Your photo (File responses)/IMG_20230729_224113_509 - Abhishek R Varma.jpg",
+      email: "ch22resch01001@iith.ac.in",
+      phone: "9947817444",
+      department: "Chemical Engineering",
+      about:
+        "Hi",
+    },
     {
       name: "Nikitha Lohia",
       photoUrl:
