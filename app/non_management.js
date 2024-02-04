@@ -795,7 +795,7 @@ const non_management = {
         "/team-2023/non-management/Your photo (File responses)/My Pic less than 1 Mb - Bollam Teja.jpg",
       email: "is22mtech11003@iith.ac.in",
       phone: "8897247987",
-      department: "Civil",
+      department: "Electrical",
       about:
         "Hi",
     },
