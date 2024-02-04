@@ -23,6 +23,8 @@ import {
   CardFooter,
   Avatar,
 } from "@nextui-org/react";
+import { IoIosStar } from "react-icons/io";
+import { Tooltip } from "react-tooltip";
 
 interface TeamMemberProps {
   name: string;
@@ -31,6 +33,8 @@ interface TeamMemberProps {
   phone: string;
   about: string;
   department: string;
+  head?: boolean;
+  discipline?: string;
 }
 
 const TeamMember: React.FC<TeamMemberProps> = ({
@@ -40,6 +44,8 @@ const TeamMember: React.FC<TeamMemberProps> = ({
   phone,
   about,
   department,
+  head = false,
+  discipline = "Head",
 }) => {
   const { isOpen, onOpen, onOpenChange } = useDisclosure();
   const [modalPlacement, setModalPlacement] = React.useState("auto");
@@ -84,6 +90,19 @@ const TeamMember: React.FC<TeamMemberProps> = ({
             alt={name}
             className="w-full h-80 object-cover rounded-t-lg lg:hover:scale-105 overflow-y-auto transition-transform duration-500"
           />
+          {head && (
+            <div className="absolute top-2 right-2">
+              <IoIosStar
+                className={name + " hi w-8 h-8 text-yellow-400"}
+                data-tooltip-id={phone}
+                data-tooltip-content={discipline}
+              />
+              {/* <Tooltip anchorSelect={`.Devansh`} place="bottom">
+                  {discipline}
+                </Tooltip> */}
+              <Tooltip id={phone} />
+            </div>
+          )}
         </div>
         <div className="p-4 relative">
           <div className="flex flex-col justify-between items-center">

@@ -16,14 +16,15 @@
 const non_management = {
   "UG Buddy": [
     {
-      name: "Devansh Agrawal ",
+      name: "Devansh Agrawal",
       photoUrl:
         "/team-2023/non-management/Your photo (File responses)/IMG_1511~2_1 - Devansh Agrawal.jpg",
       email: "es22btech11010@iith.ac.in",
       phone: "9667236662",
       department: "Engineering Science",
-      about:
-        "Hi",
+      about: "Hi",
+      head: true,
+      discipline: "UG Buddies Head",
     },
     {
       name: "Jash Jhatakia",
@@ -32,8 +33,9 @@ const non_management = {
       email: "cs22btech11028@iith.ac.in",
       phone: "9426023104",
       department: "Computer Science and Engineering",
-      about:
-        "Hi",
+      about: "Hi",
+      head: true,
+      discipline: "UG Buddies Head",
     },
     {
       name: "Kondaparthy Anuraga Chandan ",
@@ -264,8 +266,9 @@ const non_management = {
       email: "ee21btech11044@iith.ac.in",
       phone: "9353702544",
       department: "Electrical Engineering ",
-      about:
-        "Hi",
+      about: "Hi",
+      head: true,
+      discipline: "UG Mentors Head",
     },
     {
       name: "Kaustubh Gupta ",
@@ -274,8 +277,9 @@ const non_management = {
       email: "es21btech11016@iith.ac.in",
       phone: "8982255359",
       department: "Engineering Science ",
-      about:
-        "Hi",
+      about: "Hi",
+      head: true,
+      discipline: "UG Mentors Head",
     },
     {
       name: "Edara Yaswanth Balaji",
@@ -796,8 +800,9 @@ const non_management = {
       email: "is22mtech11003@iith.ac.in",
       phone: "8897247987",
       department: "Electrical",
-      about:
-        "Hi",
+      about: "Hi",
+      head: true,
+      discipline: "PG Mentors Head",
     },
     {
       name: "Jefrin Joji ",
@@ -977,8 +982,9 @@ const non_management = {
       email: "ai21resch11005@iith.ac.in",
       phone: "8901028748",
       department: "Artificial Intelligence",
-      about:
-        "Hi",
+      about: "Hi",
+      head: true,
+      discipline: "PhD Mentors Head",
     },
     {
       name: "Prachi Sharma ",
@@ -1070,6 +1076,8 @@ const non_management = {
       phone: "8299383445",
       department: "Material Science and Metallurgical Engineering",
       about: "Hi",
+      head: true,
+      discipline: "PG Buddies Head",
     },
     {
       name: "Prakhar Gupta ",
@@ -1282,8 +1290,9 @@ const non_management = {
       email: "ch22resch01001@iith.ac.in",
       phone: "9947817444",
       department: "Chemical Engineering",
-      about:
-        "Hi",
+      about: "Hi",
+      head: true,
+      discipline: "PhD Buddies Head",
     },
     {
       name: "Nikitha Lohia",

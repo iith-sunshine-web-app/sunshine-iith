@@ -1,6 +1,5 @@
 import { Fragment, useState } from "react";
 import { Dialog, Transition } from "@headlessui/react";
-import { Tooltip } from "@nextui-org/react";
 
 export default function BookAportalButton() {
   const [open, setOpen] = useState(false);
