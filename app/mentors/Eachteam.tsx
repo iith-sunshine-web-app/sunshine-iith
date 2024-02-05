@@ -10,6 +10,8 @@ interface TeamMemberProps {
   phone: string;
   about: string;
   department: string;
+  head?: boolean;
+  discipline?: string;
 }
 
 interface EachTeamProps {

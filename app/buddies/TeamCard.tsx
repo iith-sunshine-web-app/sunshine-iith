@@ -1,5 +1,7 @@
 import React from "react";
 import { FiMail, FiInfo } from "react-icons/fi";
+import { IoIosStar } from "react-icons/io";
+import { Tooltip } from "react-tooltip";
 
 import {
   Modal,
@@ -32,6 +34,8 @@ interface TeamMemberProps {
   phone: string;
   about: string;
   department: string;
+  head?: boolean;
+  discipline?: string;
 }
 
 const TeamMember: React.FC<TeamMemberProps> = ({
@@ -41,6 +45,8 @@ const TeamMember: React.FC<TeamMemberProps> = ({
   phone,
   about,
   department,
+  head = false,
+  discipline = "Head",
 }) => {
   const { isOpen, onOpen, onOpenChange } = useDisclosure();
   const [modalPlacement, setModalPlacement] = React.useState("auto");
@@ -79,16 +85,31 @@ const TeamMember: React.FC<TeamMemberProps> = ({
     <>
       <div className="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-2 relative">
         <div className="bg-white shadow-md rounded-lg overflow-hidden">
-          <div className="relative">
+          <div className="relative group">
             <img
               src={photoUrl}
               alt={name}
               className="w-full h-80 object-cover rounded-t-lg lg:hover:scale-105 overflow-y-auto transition-transform duration-500"
             />
+            {head && (
+              <div className="absolute top-2 right-2">
+                <IoIosStar
+                  className={name + " hi w-8 h-8 text-yellow-400"}
+                  data-tooltip-id={phone}
+                  data-tooltip-content={discipline}
+                />
+                {/* <Tooltip anchorSelect={`.Devansh`} place="bottom">
+                  {discipline}
+                </Tooltip> */}
+                <Tooltip id={phone} />
+              </div>
+            )}
           </div>
           <div className="p-4 relative">
             <div className="flex flex-col justify-between items-center">
-              <h3 className="text-md font-semibold text-gray-950">{name}</h3>
+              <h3 className="text-md font-semibold text-gray-950">
+                <span className="animate-open">{name}</span>
+              </h3>
               <span className="text-blue-500 bg-blue-100 py-1 px-2 rounded-full text-sm line-clamp-1">
                 {department}
               </span>
@@ -125,6 +146,7 @@ const TeamMember: React.FC<TeamMemberProps> = ({
             </div>
           </div>
         </div>
+
         <Modal isOpen={isOpen} placement="bottom" onOpenChange={onOpenChange}>
           <ModalContent>
             {(onClose) => (
