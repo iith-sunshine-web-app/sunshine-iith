@@ -260,6 +260,26 @@ const non_management = {
 
   "UG Mentor": [
     {
+      name: "Riya Ann Easow",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230603-WA0027 - Riya Ann Easow.jpg",
+      email: "ee21btech11044@iith.ac.in",
+      phone: "9353702544",
+      department: "Electrical Engineering",
+      about: "Hi",
+      head: true,
+      discipline: "UG Mentors Head"
+    },
+    {
+      name: "Kaustubh Gupta ",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/sunshine - Kaustubh Gupta.jpg",
+      email: "es21btech11016@iith.ac.in",
+      phone: "8982255359",
+      department: "Engineering Science",
+      about: "Hi",
+      head: true,
+      discipline: "UG Mentors Head"
+    },
+    {
       name: "Arjit Jain",
       photoUrl: "/team-2023/non-management/Your photo (File responses)/image__01 - Arjit Jain.png",
       email: "ai22btech11002@iith.ac.in",
@@ -460,16 +480,6 @@ const non_management = {
       about: "Hey there, I'm Padmanabha, a design student in my second year. I'm an adventure seeker and a travel lover who can't resist exploring new places. To discuss my interests, you might catch me gliding on my rollerblades, gazing at the stars, or organizing the next big thing. And when I'm not doing any of that, I'm probably munching away in the cafeteria.I've been told I'm a good listener, which is one of the reasons why I joined the counselling cell. It's my way of being there for others and lending a sympathetic ear. I'd be delighted to continue doing so with this organization, as long as I can make a positive impact on people's lives."
     },
     {
-      name: "Riya Ann Easow",
-      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230603-WA0027 - Riya Ann Easow.jpg",
-      email: "ee21btech11044@iith.ac.in",
-      phone: "9353702544",
-      department: "Electrical Engineering",
-      about: "Hi",
-      head: true,
-      discipline: "UG Mentors Head"
-    },
-    {
       name: "Sreekar Cheela",
       photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_8648 - Sreekar Cheela.jpeg",
       email: "ee22btech11051@iith.ac.in",
@@ -572,16 +582,6 @@ const non_management = {
       phone: "8950541531",
       department: "Engineering Physics",
       about: "Myself Tanya from 2nd year. I am very glad to be a part of sunshine team as sunshine helps us in interacting more and gives us a platform to discuss more friendly about any issues or mental awareness."
-    },
-    {
-      name: "Kaustubh Gupta ",
-      photoUrl: "/team-2023/non-management/Your photo (File responses)/sunshine - Kaustubh Gupta.jpg",
-      email: "es21btech11016@iith.ac.in",
-      phone: "8982255359",
-      department: "Engineering Science",
-      about: "Hi",
-      head: true,
-      discipline: "UG Mentors Head"
     },
     {
       name: "Yashmitha G",
