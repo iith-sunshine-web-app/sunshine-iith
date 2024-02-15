@@ -327,7 +327,7 @@ const management = {
         "/team-2023/management/Your Photo (File responses)/3-07-15_10-53-54-866 - Nenavath Arjun.jpg",
       email: "ic22btech11007@iith.ac.in",
       phone: "9398666340",
-      department: "IC",
+      department: "Industrial Chemistry",
       about:
         "Myself N.Arjun, 2nd year under graduate from industrial chemistry department. I am a very passionate photographer and editor, I enjoy reading, spending time outdoors and also I love to travel. I have participated in some of the conducted events and had some good time in participating. I want to click happy faces at Sunshine events so that they can have memories to cherish forever!",
     },
