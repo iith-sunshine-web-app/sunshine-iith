@@ -260,526 +260,425 @@ const non_management = {
 
   "UG Mentor": [
     {
+      name: "Arjit Jain",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/image__01 - Arjit Jain.png",
+      email: "ai22btech11002@iith.ac.in",
+      phone: "9996410920",
+      department: "Artificial Intelligence",
+      about: "Hello everyone , my name is Arjit Jain and I am a sophomore in Artificial Intelligence department. I am from Haryana. My hobbies include dancing , sports , arts and lot more ... I also like to read self growth books and have a curiosity towards finance also. I would love to help any student with the best of my abilities so that their college life remains far away from problems."
+    },
+    {
+      name: "Sudarshan Shivashankar",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/WhatsApp Image 2023-08-20 at 3.48.15 PM - Sudarshan Shivashankar.jpeg",
+      email: "ai22btech11027@iith.ac.in",
+      phone: "9840517010",
+      department: "Artificial Intelligence",
+      about: "Sudarshan here , pursuing my 2nd year Btech in Artificial Intelligence . Some of my hobbies are Swimming , Volley , listening to music . I am beginning to appreciate the importance of mental well-being and that of sharing experiences, offering  support and  the learning from the sunshine community."
+    },
+    {
+      name: "Aditya Varun V",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Sunshine_Photo_AdityaVarunV - Aditya Varun V.jpeg",
+      email: "ai22btech11001@iith.ac.in",
+      phone: "9790783934",
+      department: "Artificial Intelligence",
+      about: "Hello! I'm Aditya from AI22. Some of my hobbies are exploring places and new cuisine around me, and playing table tennis.  I enjoy learning and growing together with people. My most heartwarming experiences with Sunshine was volunteering at the Sunshine events. Seeing many happy faces participating in fun little games and taking a necessary break from the chaotic world, brought me joy. I believe society should be more receiving of others’ feelings and emotions, and mental health. This motivates me to serve Sunshine. I enjoy listening to various viewpoints, so I'm always up for a chat :)"
+    },
+    {
+      name: "Srivigna ",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230708-WA0019~2 - Vemula Srivigna.jpg",
+      email: "bm22btech11021@iith.ac.in",
+      phone: "6301636438",
+      department: "Biomedical",
+      about: "Hello there! I'm Srivigna a undergraduate mentor .I find my joy in anime and sketching along with reading books.In me,you'll find more than just a mentor -you'll find a friend and a guide who's genuinely help you with finding your passion and help you in academics. "
+    },
+    {
+      name: "Abhay goyal",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/WhatsApp Image 2023-08-20 at 15.49.30 - Abhay Goyal.jpg",
+      email: "bm22btech11001@iith.ac.in",
+      phone: "6260284389",
+      department: "Biomedical",
+      about: "I'm a passionate creative thinker with a boundless enthusiasm for exploration. My interests are wide-ranging, encompassing both the dynamic realm of technology and the exhilarating world of sports. If presented with the chance, I would eagerly embrace the opportunity to share my experiences and insights with others."
+    },
+    {
+      name: "Ravipati Anvitha",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Screenshot_20230820-204831_Gallery - Ravipati Anvitha.jpg",
+      email: "bm22btech11016@iith.ac.in",
+      phone: "9515048625 ",
+      department: "Biomedical",
+      about: "I am an enthusiastic anime lover and I like to play chess. I'm always eager to learn and discuss. I like to help others just as Sunshine brightens our lives. Sunshine's goal is to make college students' lives easy, and I want to contribute my best to make it achieve its goal."
+    },
+    {
+      name: "Rithika Gajarla ",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/20230730_151541 - Rithika Gajarla.jpg",
+      email: "bt22btech11013@iith.ac.in",
+      phone: "9000650099",
+      department: "Biotechnology and Bioinformatics",
+      about: "I would describe myself as a calm, open minded person and a great listener. I am quite the introvert, so most of the time I am immersed in any book/story which catches my fancy. I also like playing the guitar and by extension, listening to music and singing along. I watch anime too. I have a interests in diverse range of fields like psychology, history, random tidbits of science, music theory, to name a few. I have no previous experiences with sunshine, but I will give my best in this position, to make sure no one feels left out."
+    },
+    {
+      name: "Aditya Gupta ",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_20230820_235634 - Aditya Gupta.jpg",
+      email: "bt22btech11001@iith.ac.in",
+      phone: "8800523297",
+      department: "Biotechnology and Bioinformatics",
+      about: "I'm Aditya Gupta, a dedicated individual with a passion for sketching and badminton. My ambition motivates me to excel in all aspects of life. Beyond my hobbies, I find fulfillment in mentoring juniors at Sunshine. My diverse interests span various fields, from management to pursuing research in my branch, allowing me to contribute creatively and effectively. These random words I provide reflect my eagerness to engage with novel challenges and opportunities."
+    },
+    {
+      name: "V. Aashrita",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20221206-WA0077 - Venishetty Aashrita.jpg",
+      email: "ch22btech11039@iith.ac.in",
+      phone: "7989621724",
+      department: "Chemical Engineering",
+      about: "Hi! To say about myself, I have recently discovered myself was that I can sketch really well if I practice. And when it comes to sunshine, we all know its an mental health cell which supports people and I'm really happy to be a part of it as a UG mentor and to be there for mentees.Im really looking forward to the whole year of events, interactions...alot of fun and many more. Hoping it would be a really good experience and get to learn something in the process."
+    },
+    {
+      name: "Abhinash P Kolkar",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Sunshine photo - Abhinash P Kolkar.jpeg",
+      email: "ch22btech11001@iith.ac.in",
+      phone: "8431063782",
+      department: "Chemical Engineering",
+      about: "Embracing the rhythm of life with dance, music, and captivating stories. Equally at home in the gym or immersed in cinematic tales. Fluent in Kannada, Tamil, Telugu, Hindi, and English. As a sunshine mentor, I seek to forge connections and expand social networks while guiding students through the exciting journey of college life. Let's embark on this enriching adventure together!"
+    },
+    {
+      name: "Sahil Kushwaha",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Sahil Kushwaha - Sahil Kushwaha.jpg",
+      email: "ch22btech11030@iith.ac.in",
+      phone: "8851096871",
+      department: "Chemical Engineering",
+      about: "Hey I'm Sahil Kushwaha from 2nd year chemical engineering department, I play games and I love to eating. My interest contains filmmaking, sketching and sleeping, I joined sunshine to learn and I hope being a mentor will teach me new stuff and I'll have new experiences "
+    },
+    {
+      name: "Mohammed Ayan",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/AB78A53A-A5E2-48D0-8960-8CEA3FDF400B - Mohammed Ayan.jpeg",
+      email: "ch22btech11022@iith.ac.in",
+      phone: "6260687477",
+      department: "Chemical Engineering",
+      about: "I like watching movies, listening to music and reading book etc. "
+    },
+    {
+      name: "Mehwish Naz",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230615-WA0023 - Mehwish Naz.jpg",
+      email: "ch22btech11021@iith.ac.in",
+      phone: "9334862420",
+      department: "Chemical Engineering",
+      about: "I love art and riddles (and anything related to it). I joined Sunshine as a UG mentor  because I feel content and happy helping others. I like interacting with people which helps me learn about different perspectives and situations. "
+    },
+    {
+      name: "Sravani Cheedella",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230820-WA0000 - Sravani Cheedella.jpg",
+      email: "ch21btech11038@iith.ac.in",
+      phone: "6303129788",
+      department: "Chemical Engineering",
+      about: "I am Sravani Cheedella from 3rd Year Chemical Engineering Department. I have one big hobby that is listening to music. I am keenly interested in entrepreneurship and am enthusiastic about exploring its various facets. "
+    },
+    {
+      name: "Agrim Singh",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_20230311_151733 - Agrim Singh.jpg",
+      email: "ch22btech11002@iith.ac.in",
+      phone: "7006982234",
+      department: "Chemical Engineering",
+      about: "Hey there. As for my hobbies, I like playing e-sports, football and dancing. I'm a social person and can get along with almost everyone. I support Sunshine because I believe that in today's time, mental health should be of utmost importance."
+    },
+    {
+      name: "Advait Danade ",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_20230827_212509 - Advait Atul Danade.jpg",
+      email: "ch21btech11003@iith.ac.in",
+      phone: "9799114621",
+      department: "Chemical Engineering",
+      about: "I am an enthusiastic and resilient individual, currently pursuing a B.Tech in Chemical Engineering. My hobbies include playing the guitar and maintaining an active lifestyle through regular workouts. My journey with Sunshine UG Mentorship Program has enriched my communication skills and honed my empathy. I find great fulfillment in guiding peers through challenges, fostering a supportive community. This experience has ignited my passion to serve Sunshine with dedication, aiming to contribute positively and foster mental well-being among fellow students."
+    },
+    {
+      name: "K Sri Varshini",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/sunshine mentor - Kanchanapally Sri Varshini.jpg",
+      email: "ce22btech11026@iith.ac.in",
+      phone: "6301481867",
+      department: "Civil Engineering",
+      about: "Hi everyone  this is varshini from Civil department. UG Mentor in Sunshine cell of IITH. My hobbies are dancing, painting, singing, playing  badminton. I have interests in   traveling and exploring  different  places and in case of academics I am interested  in IT sector.I was in the sunshine cell last year as a UG Buddy. Sunshine  is a family  in IITH that takes care of students. I was inspired  by Sunshine  cell and want to help people and my juniors."
+    },
+    {
+      name: "Vaishnavi Goswami",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Screenshot_20230730-194805 - Vaishnavi Goswami.png",
+      email: "ce22btech11051@iith.ac.in",
+      phone: "6307789081",
+      department: "Civil Engineering",
+      about: "I am Vaishnavi,l am adventurous  and l like cycling and dancing . I was a buddy in sunshine last year which motivated me to continue in sunshine this year too . It was a  great experience. I am highly passionate to serve sunshine as a mentor this year. "
+    },
+    {
+      name: "Bhavitha Kakkirala",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_20230820_115044 - Kakkirala Bhavitha.jpg",
+      email: "co22btech11005@iith.ac.in",
+      phone: "9000037467",
+      department: "Computational Engineering",
+      about: "Myself Bhavitha from computational engineering co22btech11005,my hobbies include journal-writing, watching series . I had experienced buddy responsibilities and positions last year. I noticed that,it is very important to have mentor for the juniors to guide them ,help them in different aspects."
+    },
+    {
+      name: "T. Naga Vaishnavi",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Snapchat-924664910 - Thiriveedhi Naga Vaishnavi.jpg",
+      email: "co22btech11014@iith.ac.in",
+      phone: "9398173294",
+      department: "Computational Engineering",
+      about: "I'm so happy to be a part of sunshine since supporting students when they are facing any problems gives a kinda satisfaction to me. And also sunshine helped me a lot personally when I'm facing problems. I was a buddy previously which gave me a good experience working with Sunshine. Coming to my hobbies, I don't have any ,they keep changing. I'm interested in drawing and Dance."
+    },
+    {
+      name: "Aparna S Kaushik",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Snapchat-239389183 - Aparna S Kaushik.jpg",
+      email: "co22btech11003@iith.ac.in",
+      phone: "9868920657",
+      department: "Computational engineering",
+      about: "I personally believe mental health is one of the most important trait of a person that should be taken care of. I want to help my colleagues and juniors with the same. I believe my emphatic and soft nature will help in doing the same."
+    },
+    {
+      name: "Pooja Vinod Mane",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Snapchat-1593983593 - Mane Pooja Vinod.jpg",
+      email: "cs22btech11035@iith.ac.in",
+      phone: "7709727624",
+      department: "Computer Science and Engineering",
+      about: "My hobbies are dancing and signing. I have leadership qualities, good listener and a fast leaner. I have a keen interest in web development field. My experience with sunshine was very delightful. In the first Departmental Meet, I was very warmly welcomed and later i decided that i will replicate the same with my juniors.My belief is that if you can help someone to uplift them in their life then that small change which you make can bring a great fortune to others. So I want to be a small part of that big happiness as I will also learn a lot of new things. So I am very excited to be a part of the team and provide help to my juniors in whichever way possible."
+    },
+    {
+      name: "Rishitha Surineni ",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/WhatsApp Image 2023-11-13 at 22.19.01 - Rishitha Surineni.jpeg",
+      email: "cs22btech11050@iith.ac.in",
+      phone: "8008246935",
+      department: "Computer Science and Engineering",
+      about: "I'm Rishitha Surineni.I find joy in reading novels, watching movies, crafting, and even indulging in a bit of dancing. Looking forward to meet many new people and build long lasting connections."
+    },
+    {
+      name: "Ananya Thakur",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Photo on 31-07-23 at 8.19 PM - Ananya Thakur.jpeg",
+      email: "bd22bdes11002@iith.ac.in",
+      phone: "9837349206",
+      department: "Design",
+      about: "i watch films and i read about films. "
+    },
+    {
+      name: "Sripadmanabha S",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_0788 - Sripadmanabha S.jpeg",
+      email: "bd22bdes11016@iith.ac.in",
+      phone: "9488831300",
+      department: "Design",
+      about: "Hey there, I'm Padmanabha, a design student in my second year. I'm an adventure seeker and a travel lover who can't resist exploring new places. To discuss my interests, you might catch me gliding on my rollerblades, gazing at the stars, or organizing the next big thing. And when I'm not doing any of that, I'm probably munching away in the cafeteria.I've been told I'm a good listener, which is one of the reasons why I joined the counselling cell. It's my way of being there for others and lending a sympathetic ear. I'd be delighted to continue doing so with this organization, as long as I can make a positive impact on people's lives."
+    },
+    {
       name: "Riya Ann Easow",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230603-WA0027 - Riya Ann Easow.jpg",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230603-WA0027 - Riya Ann Easow.jpg",
       email: "ee21btech11044@iith.ac.in",
       phone: "9353702544",
       department: "Electrical Engineering",
       about: "Hi",
       head: true,
-      discipline: "UG Mentors Head",
+      discipline: "UG Mentors Head"
+    },
+    {
+      name: "Sreekar Cheela",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_8648 - Sreekar Cheela.jpeg",
+      email: "ee22btech11051@iith.ac.in",
+      phone: "8688519604",
+      department: "Electrical Engineering",
+      about: "Hello there! I am Sreekar Cheela, UG mentor 23-24. I am a sophomore from electrical engineering department. My hobbies are dancing and playing drums. I always try to do something new and enjoy and learn from my experiences. Since childhood, I have always wanted to help and take care of others and now by joining sunshine I am sure I can work in that direction. I hope my experience under sunshine will be a memorable one."
+    },
+    {
+      name: "Anek",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/cf6e5de7-4597-4616-805c-b499b6e4a1b0 - Anjireddy Anek.JPG",
+      email: "ee22btech11007@iith.ac.in",
+      phone: "9989677207",
+      department: "Electrical Engineering",
+      about: "Hello, I’m anek, a very normal abnormal student in IIT Hyderabad. I love films and music, like literally every other human being, but I love them a little extra. I read books, or at least say I do, and I pass my time going on random walks and talking about the most random things with people. So nothing is too weird to talk about with me, and maybe that is why I wanted to join Sunshine, to let people know that we’re all weird in our own ways. And my unique talent? I guess I can fold my tongue."
+    },
+    {
+      name: "Kesava Mahitha",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/photo - Gade Kesava Mahitha.jpeg",
+      email: "ee22btech11020@iith.ac.in",
+      phone: "8309589768",
+      department: "Electrical Engineering",
+      about: "I am very passionate about music and art. I am open to interact with people and get to know them better. I believe that being in sunshine will help me to get to know myself more. "
+    },
+    {
+      name: "Pandrangi Aditya Sriram",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230820-WA0012(1) - Pandrangi Aditya Sriram.jpg",
+      email: "ee22btech11039@iith.ac.in",
+      phone: "8309999700",
+      department: "Electrical Engineering",
+      about: "Hello guys, this is Sriram. I am a space enthusiast, and would love to contribute to space industry in some way. I'm also enthusiastic about AI and Finance. I love to game and travel. Having been helped a lot by previous mentors, I would like to return the same to you guys, the freshers, in as many domains as I have the knowledge of."
+    },
+    {
+      name: "Rusna",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/20230819_192125 - Shaikh Rusna Aiyubbhai.jpg",
+      email: "ee22btech11048@iith.ac.in",
+      phone: "7990224504",
+      department: "Electrical Engineering",
+      about: "Hello, I am someone who likes to watch movies, web series and read books. Sunshine has been a safe space to share my thoughts and challenges. I am extremely excited to collaborate with the dedicated team to create a positive environment and make college life smoother and happier for everyone."
+    },
+    {
+      name: "Katherapaka Nikhil",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/605C797F-A4C9-40D2-BF10-C404285C117A - Katherapaka Nikhil.jpeg",
+      email: "ee22btech11028@iith.ac.in",
+      phone: "8340002233",
+      department: "Electrical Engineering",
+      about: "Heyyy….This is Nikhil, Studying 2nd year B.Tech program in electrical department.My hobbies are singing,dancing,watching movies and playing sports.Channeling wisdom to inspire people and creative vision. Fascinated by tech, I unravel complexities, forging tomorrow's boundless horizons. We at Sunshine, we're dedicated to empowering you. Engaging with us doesn't signify defeat; rather, it reflects your drive to conquer hurdles by embracing diverse viewpoints. Sunshine: Guiding you to success."
+    },
+    {
+      name: "A.Rakesh Kumar",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230503-WA0092 - Akuluru Rakesh Kumar.jpg",
+      email: "ee22btech11005@iith.ac.in",
+      phone: "8978682588",
+      department: "Electrical Engineering",
+      about: "I'm an enthusiastic person who always seek for development. In my free time I do play sports, watch movies and chill with friends. I'm driven into scientific research. In the quiet chambers of compassion, sunshine's true masterpiece unfolds—a healer of minds, showering light on paths once shadowed."
+    },
+    {
+      name: "Antalene J",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230830-WA0025 - Antalene Jeya Sharon J.jpg",
+      email: "ee22btech11008@iith.ac.in",
+      phone: "7200372858",
+      department: "Electrical Engineering",
+      about: "Hobbies include anime, games, horror movies and volleyball. Unique quality.....can't think of any... Experience with sunshine - glad to be part of the team :)"
+    },
+    {
+      name: "Pasalapudi Srikrishna Satvik",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Sunshine_Website_Photo - Pasalapudi Srikrishna Satvik.jpg",
+      email: "ee22btech11212@iith.ac.in",
+      phone: "8341458666",
+      department: "Electrical Engineering IC Design and Technology",
+      about: "I love experimenting with my life and possibly regretting my choices later. I am also reckless AF and its a surprise I am still alive. I also love to irritate people, my favorite pokemon is Infernape, I hate intros and I am a Telugu person. (PS: EE ICDT is the best branch no cap)"
+    },
+    {
+      name: "Gunethra Bommineni",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/PXL_20230101_023627651~2 - Bommineni Gunethra.jpg",
+      email: "ee22btech11205@iith.ac.in",
+      phone: "9000479184",
+      department: "Electrical Engineering IC Design and Technology",
+      about: "Gunethra here, Electrical Engg. IC Design and Technology Sophomore, Jack of all trades...Master of none, Tech and hardware enthusiast, talk to me about FOSS and you may lose yourself ;) Novels are my passtime(atleast they were b4 joining IITH, now I just chill with frens.) I distrohop for fun and frustration :\"\"D I joined sunshine to meet new people create an impact in their life. At Sunshine, we're all about aiding you in your journey of self-discovery. Association with us do not imply an inability to address problems; rather, they demonstrate your desire to approach problems from several perspectives. "
+    },
+    {
+      name: "Anagha Balaji",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230721-WA0016 - Anagha Balaji.jpg",
+      email: "ee22btech11204@iith.ac.in",
+      phone: "9177753942",
+      department: "Electrical Engineering IC Design and Technology",
+      about: "Hello I'm Anagha Balaji and I am a second year Btech student from the department EE : IC Design and Technology. From the moment I heard about Sunshine during my first year on campus, it caught my attention. Although I've been here for a year, this is my first time becoming a part of Sunshine. My love for art, especially sketching and painting, has been an integral aspect of my life. It's not just a hobby; it's been my solace during tough times, motivating me to encourage others to pursue their passions as well. Sunshine's mission deeply resonates with me, and I was genuinely excited to witness the positive impact it had on my fellow students in my first year on campus. I'm committed to serving Sunshine and contributing my unique qualities and interests to promote mental health awareness."
+    },
+    {
+      name: "Edara Yaswanth Balaji",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_5304 - Edara Yaswanth Balaji.jpeg",
+      email: "ep22btech11007@iith.ac.in",
+      phone: "9144333999",
+      department: "Engineering Physics",
+      about: "I like to play Guitar , cricket and I love watching series and also reading manhwa/manga.I am a sunshine mentor and I like to interact with people and help them in any way I can "
+    },
+    {
+      name: "Tanya Sharma",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_20230820_183830 - Tanya Sharma.jpg",
+      email: "ep22btech11028@iith.ac.in",
+      phone: "8950541531",
+      department: "Engineering Physics",
+      about: "Myself Tanya from 2nd year. I am very glad to be a part of sunshine team as sunshine helps us in interacting more and gives us a platform to discuss more friendly about any issues or mental awareness."
     },
     {
       name: "Kaustubh Gupta ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/sunshine - Kaustubh Gupta.jpg",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/sunshine - Kaustubh Gupta.jpg",
       email: "es21btech11016@iith.ac.in",
       phone: "8982255359",
       department: "Engineering Science",
       about: "Hi",
       head: true,
-      discipline: "UG Mentors Head",
-    },
-    {
-      name: "Edara Yaswanth Balaji",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_5304 - Edara Yaswanth Balaji.jpeg",
-      email: "ep22btech11007@iith.ac.in",
-      phone: "9144333999",
-      department: "Engineering Physics",
-      about:
-        "I like to play Guitar , cricket and I love watching series and also reading manhwa/manga.I am a sunshine mentor and I like to interact with people and help them in any way I can ",
-    },
-    {
-      name: "Pravalika namburi",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/InShot_20221227_185621103 - Namburi Pravalika.jpg",
-      email: "ic22btech11006@iith.ac.in",
-      phone: "9182078029",
-      department: "Industrial Chemistry",
-      about:
-        " \"\"Salutations, fellow explorers of the human experience! I'm pravalika Namburi, a self-proclaimed enthusiast of all things creative, a connoisseur of obscure facts, and an unapologetic advocate for embracing life's quirks. By day, you might find me navigating the intricate world of data analysis, and by night, I transform into a culinary adventurer, concocting fusion recipes that bridge the gap between cultures. If you're up for thought-provoking conversations, spontaneous dance-offs, or embarking on impromptu journeys of discovery, then I'm your co-pilot on this exhilarating ride through existence!\"\"",
-    },
-    {
-      name: "Chandra Prakash",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20230422_213324 - Chandra Prakash.jpg",
-      email: "me22btech11018@iith.ac.in",
-      phone: "8651418315",
-      department: "Mechanical and Aerospace Engineering",
-      about:
-        "I am passionate learner and my hobbies is to keep learning and improving. Other than that I am share market investor, programmer , working with robotix club iith and is also working with sunshine as a ug mentor. My interest lies in investment, programming, in doing creative thing and entrepreneurship. The reason for working with sunshine is the work that they have done towards mental health (which is a serious issue) . I am really excited and happy that I got the opportunity here. ",
-    },
-    {
-      name: "Bhavitha Kakkirala",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20230820_115044 - Kakkirala Bhavitha.jpg",
-      email: "co22btech11005@iith.ac.in",
-      phone: "9000037467",
-      department: "Computational Engineering",
-      about:
-        "Myself Bhavitha from computational engineering co22btech11005,my hobbies include journal-writing, watching series . I had experienced buddy responsibilities and positions last year. I noticed that,it is very important to have mentor for the juniors to guide them ,help them in different aspects.",
-    },
-    {
-      name: "K Sri Varshini",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/sunshine mentor - Kanchanapally Sri Varshini.jpg",
-      email: "ce22btech11026@iith.ac.in",
-      phone: "6301481867",
-      department: "Civil Engineering",
-      about:
-        "Hi everyone  this is varshini from Civil department. UG Mentor in Sunshine cell of IITH. My hobbies are dancing, painting, singing, playing  badminton. I have interests in   traveling and exploring  different  places and in case of academics I am interested  in IT sector.I was in the sunshine cell last year as a UG Buddy. Sunshine  is a family  in IITH that takes care of students. I was inspired  by Sunshine  cell and want to help people and my juniors.",
-    },
-    {
-      name: "Dasari Ram Vasanth",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230817-WA0009 - Dasari Ram Vasanth.jpg",
-      email: "ms22btech11011@iith.ac.in",
-      phone: "8310397068",
-      department: "Materials Science and Metallurgical Engineering",
-      about:
-        "I am a sophomore, always  looking forward to learn new things. My friend group is my strength. Chess and cricket interests me and I love to watch movies and interacting with people. I have a one year experience in sunshine as a buddy. My passion to serve sunshine is I like helping people.",
-    },
-    {
-      name: "Bogireddy Vishnu Vardhan Reddy",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Screenshot_20230706_213655_Gallery - Bogireddy Vishnu Vardhan Reddy.jpg",
-      email: "me22btech11017@iith.ac.in",
-      phone: "9550860063",
-      department: "Mechanical and Aerospace Engineering",
-      about:
-        "A good listener with a great interest in culturals.. Jst a mic and stage would be enough to fill my heart!! Values the relations and bonds the most..wanna try smtng new n crazzy....",
-    },
-    {
-      name: "Shreya Sridhar",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Shreya Sridhar - Shreya Sridhar.jpg",
-      email: "ic22btech11015@iith.ac.in",
-      phone: "9535128983",
-      department: "Industrial Chemistry",
-      about:
-        "I have always been intrigued by the opportunity to interact with and lend a helping hand to others. In my role as UG Buddy last year, I was able to achieve the same. Most importantly, it prompted me to explore myself and understand who I am as an individual. I believe that there's no better way of leading a life than serving others and hence, my passion continues. My other interests include athletics, painting and reading books.",
-    },
-    {
-      name: "Vaishnavi Goswami",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Screenshot_20230730-194805 - Vaishnavi Goswami.png",
-      email: "ce22btech11051@iith.ac.in",
-      phone: "6307789081",
-      department: "Civil Engineering",
-      about:
-        "I am Vaishnavi,l am adventurous  and l like cycling and dancing . I was a buddy in sunshine last year which motivated me to continue in sunshine this year too . It was a  great experience. I am highly passionate to serve sunshine as a mentor this year. ",
-    },
-    {
-      name: "V. Aashrita",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20221206-WA0077 - Venishetty Aashrita.jpg",
-      email: "ch22btech11039@iith.ac.in",
-      phone: "7989621724",
-      department: "Chemical Engineering",
-      about:
-        "Hi! To say about myself, I have recently discovered myself was that I can sketch really well if I practice. And when it comes to sunshine, we all know its an mental health cell which supports people and I'm really happy to be a part of it as a UG mentor and to be there for mentees.Im really looking forward to the whole year of events, interactions...alot of fun and many more. Hoping it would be a really good experience and get to learn something in the process.",
-    },
-    {
-      name: "Pooja Vinod Mane",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Snapchat-1593983593 - Mane Pooja Vinod.jpg",
-      email: "cs22btech11035@iith.ac.in",
-      phone: "7709727624",
-      department: "Computer Science and Engineering",
-      about:
-        "My hobbies are dancing and signing. I have leadership qualities, good listener and a fast leaner. I have a keen interest in web development field. My experience with sunshine was very delightful. In the first Departmental Meet, I was very warmly welcomed and later i decided that i will replicate the same with my juniors.My belief is that if you can help someone to uplift them in their life then that small change which you make can bring a great fortune to others. So I want to be a small part of that big happiness as I will also learn a lot of new things. So I am very excited to be a part of the team and provide help to my juniors in whichever way possible.",
-    },
-    {
-      name: "Arjit Jain",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/image__01 - Arjit Jain.png",
-      email: "ai22btech11002@iith.ac.in",
-      phone: "9996410920",
-      department: "Artificial Intelligence",
-      about:
-        "Hello everyone , my name is Arjit Jain and I am a sophomore in Artificial Intelligence department. I am from Haryana. My hobbies include dancing , sports , arts and lot more ... I also like to read self growth books and have a curiosity towards finance also. I would love to help any student with the best of my abilities so that their college life remains far away from problems.",
-    },
-    {
-      name: "Sudarshan Shivashankar",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/WhatsApp Image 2023-08-20 at 3.48.15 PM - Sudarshan Shivashankar.jpeg",
-      email: "ai22btech11027@iith.ac.in",
-      phone: "9840517010",
-      department: "Artificial Intelligence",
-      about:
-        "Sudarshan here , pursuing my 2nd year Btech in Artificial Intelligence . Some of my hobbies are Swimming , Volley , listening to music . I am beginning to appreciate the importance of mental well-being and that of sharing experiences, offering  support and  the learning from the sunshine community.",
-    },
-    {
-      name: "Ananya Thakur",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Photo on 31-07-23 at 8.19 PM - Ananya Thakur.jpeg",
-      email: "bd22bdes11002@iith.ac.in",
-      phone: "9837349206",
-      department: "Design",
-      about: "i watch films and i read about films. ",
-    },
-    {
-      name: "Aditya Varun V",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Sunshine_Photo_AdityaVarunV - Aditya Varun V.jpeg",
-      email: "ai22btech11001@iith.ac.in",
-      phone: "9790783934",
-      department: "Artificial Intelligence",
-      about:
-        "Hello! I'm Aditya from AI22. Some of my hobbies are exploring places and new cuisine around me, and playing table tennis.  I enjoy learning and growing together with people. My most heartwarming experiences with Sunshine was volunteering at the Sunshine events. Seeing many happy faces participating in fun little games and taking a necessary break from the chaotic world, brought me joy. I believe society should be more receiving of others\u2019 feelings and emotions, and mental health. This motivates me to serve Sunshine. I enjoy listening to various viewpoints, so I'm always up for a chat :)",
-    },
-    {
-      name: "Sreekar Cheela",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_8648 - Sreekar Cheela.jpeg",
-      email: "ee22btech11051@iith.ac.in",
-      phone: "8688519604",
-      department: "Electrical Engineering",
-      about:
-        "Hello there! I am Sreekar Cheela, UG mentor 23-24. I am a sophomore from electrical engineering department. My hobbies are dancing and playing drums. I always try to do something new and enjoy and learn from my experiences. Since childhood, I have always wanted to help and take care of others and now by joining sunshine I am sure I can work in that direction. I hope my experience under sunshine will be a memorable one.",
-    },
-    {
-      name: "Anek",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/cf6e5de7-4597-4616-805c-b499b6e4a1b0 - Anjireddy Anek.JPG",
-      email: "ee22btech11007@iith.ac.in",
-      phone: "9989677207",
-      department: "Electrical Engineering",
-      about:
-        "Hello, I\u2019m anek, a very normal abnormal student in IIT Hyderabad. I love films and music, like literally every other human being, but I love them a little extra. I read books, or at least say I do, and I pass my time going on random walks and talking about the most random things with people. So nothing is too weird to talk about with me, and maybe that is why I wanted to join Sunshine, to let people know that we\u2019re all weird in our own ways. And my unique talent? I guess I can fold my tongue.",
-    },
-    {
-      name: "Srivigna ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230708-WA0019~2 - Vemula Srivigna.jpg",
-      email: "bm22btech11021@iith.ac.in",
-      phone: "6301636438",
-      department: "Biomedical",
-      about:
-        "Hello there! I'm Srivigna a undergraduate mentor .I find my joy in anime and sketching along with reading books.In me,you'll find more than just a mentor -you'll find a friend and a guide who's genuinely help you with finding your passion and help you in academics. ",
-    },
-    {
-      name: "Tanya Sharma",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20230820_183830 - Tanya Sharma.jpg",
-      email: "ep22btech11028@iith.ac.in",
-      phone: "8950541531",
-      department: "Engineering Physics",
-      about:
-        "Myself Tanya from 2nd year. I am very glad to be a part of sunshine team as sunshine helps us in interacting more and gives us a platform to discuss more friendly about any issues or mental awareness.",
-    },
-    {
-      name: "Sharvil Shailesh Pedamkar",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/SharvilShailesh.jpg",
-      email: "ic22btech11013@iith.ac.in",
-      phone: "9372010312",
-      department: "Industrial Chemistry",
-      about:
-        "AhoyyyI'm Sharvil Shailesh Pedamkar, Sophomore Student From IC Department.I do realize how it feels when the world is against you. Feeling someone should be there for you and hoping no one has to go through what I did motivated me to join Sunshine.I am committed to using my skills to support Sunshine's mission of providing mental health support to students.And Trust Me You Got this",
-    },
-    {
-      name: "Abhay goyal",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/WhatsApp Image 2023-08-20 at 15.49.30 - Abhay Goyal.jpg",
-      email: "bm22btech11001@iith.ac.in",
-      phone: "6260284389",
-      department: "Biomedical",
-      about:
-        "I'm a passionate creative thinker with a boundless enthusiasm for exploration. My interests are wide-ranging, encompassing both the dynamic realm of technology and the exhilarating world of sports. If presented with the chance, I would eagerly embrace the opportunity to share my experiences and insights with others.",
+      discipline: "UG Mentors Head"
     },
     {
       name: "Yashmitha G",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230310-WA0021 - Gogineni Yashmitha.jpg",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230310-WA0021 - Gogineni Yashmitha.jpg",
       email: "es22btech11014@iith.ac.in",
       phone: "8851947851",
       department: "Engineering Science",
-      about:
-        "I'm just an another 19 year old teen trying to make the most of her life. I really love dancing and the book series Percy Jackson.I sing too sometimes. Apart from that one thing I really enjoy is talking to people. Sunshine provides me with the opportunity to connect with people which is the reason why I chose Sunshine in the first place. I previously was a UG Buddy and it was a wonderful experience.Looking forward to making more memories!",
-    },
-    {
-      name: "Ravipati Anvitha",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Screenshot_20230820-204831_Gallery - Ravipati Anvitha.jpg",
-      email: "bm22btech11016@iith.ac.in",
-      phone: "9515048625 ",
-      department: "Biomedical",
-      about:
-        "I am an enthusiastic anime lover and I like to play chess. I'm always eager to learn and discuss. I like to help others just as Sunshine brightens our lives. Sunshine's goal is to make college students' lives easy, and I want to contribute my best to make it achieve its goal.",
-    },
-    {
-      name: "Aparna S Kaushik",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Snapchat-239389183 - Aparna S Kaushik.jpg",
-      email: "co22btech11003@iith.ac.in",
-      phone: "9868920657",
-      department: "Computational engineering",
-      about:
-        "I personally believe mental health is one of the most important trait of a person that should be taken care of. I want to help my colleagues and juniors with the same. I believe my emphatic and soft nature will help in doing the same.",
-    },
-    {
-      name: "Kesava Mahitha",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/photo - Gade Kesava Mahitha.jpeg",
-      email: "ee22btech11020@iith.ac.in",
-      phone: "8309589768",
-      department: "Electrical Engineering",
-      about:
-        "I am very passionate about music and art. I am open to interact with people and get to know them better. I believe that being in sunshine will help me to get to know myself more. ",
-    },
-    {
-      name: "Abhinash P Kolkar",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Sunshine photo - Abhinash P Kolkar.jpeg",
-      email: "ch22btech11001@iith.ac.in",
-      phone: "8431063782",
-      department: "Chemical Engineering",
-      about:
-        "Embracing the rhythm of life with dance, music, and captivating stories. Equally at home in the gym or immersed in cinematic tales. Fluent in Kannada, Tamil, Telugu, Hindi, and English. As a sunshine mentor, I seek to forge connections and expand social networks while guiding students through the exciting journey of college life. Let's embark on this enriching adventure together!",
-    },
-    {
-      name: "Sahil Kushwaha",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Sahil Kushwaha - Sahil Kushwaha.jpg",
-      email: "ch22btech11030@iith.ac.in",
-      phone: "8851096871",
-      department: "Chemical Engineering",
-      about:
-        "Hey I'm Sahil Kushwaha from 2nd year chemical engineering department, I play games and I love to eating. My interest contains filmmaking, sketching and sleeping, I joined sunshine to learn and I hope being a mentor will teach me new stuff and I'll have new experiences ",
-    },
-    {
-      name: "Pandrangi Aditya Sriram",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230820-WA0012(1) - Pandrangi Aditya Sriram.jpg",
-      email: "ee22btech11039@iith.ac.in",
-      phone: "8309999700",
-      department: "Electrical Engineering",
-      about:
-        "Hello guys, this is Sriram. I am a space enthusiast, and would love to contribute to space industry in some way. I'm also enthusiastic about AI and Finance. I love to game and travel. Having been helped a lot by previous mentors, I would like to return the same to you guys, the freshers, in as many domains as I have the knowledge of.",
-    },
-    {
-      name: "Mohammed Ayan",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/AB78A53A-A5E2-48D0-8960-8CEA3FDF400B - Mohammed Ayan.jpeg",
-      email: "ch22btech11022@iith.ac.in",
-      phone: "6260687477",
-      department: "Chemical Engineering",
-      about:
-        "I like watching movies, listening to music and reading book etc. ",
-    },
-    {
-      name: "Rusna",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/20230819_192125 - Shaikh Rusna Aiyubbhai.jpg",
-      email: "ee22btech11048@iith.ac.in",
-      phone: "7990224504",
-      department: "Electrical Engineering",
-      about:
-        "Hello, I am someone who likes to watch movies, web series and read books. Sunshine has been a safe space to share my thoughts and challenges. I am extremely excited to collaborate with the dedicated team to create a positive environment and make college life smoother and happier for everyone.",
-    },
-    {
-      name: "Mehwish Naz",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230615-WA0023 - Mehwish Naz.jpg",
-      email: "ch22btech11021@iith.ac.in",
-      phone: "9334862420",
-      department: "Chemical Engineering",
-      about:
-        "I love art and riddles (and anything related to it). I joined Sunshine as a UG mentor  because I feel content and happy helping others. I like interacting with people which helps me learn about different perspectives and situations. ",
-    },
-    {
-      name: "Pasalapudi Srikrishna Satvik",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Sunshine_Website_Photo - Pasalapudi Srikrishna Satvik.jpg",
-      email: "ee22btech11212@iith.ac.in",
-      phone: "8341458666",
-      department: "Electrical Engineering IC Design and Technology",
-      about:
-        "I love experimenting with my life and possibly regretting my choices later. I am also reckless AF and its a surprise I am still alive. I also love to irritate people, my favorite pokemon is Infernape, I hate intros and I am a Telugu person. (PS: EE ICDT is the best branch no cap)",
-    },
-    {
-      name: "Sravani Cheedella",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230820-WA0000 - Sravani Cheedella.jpg",
-      email: "ch21btech11038@iith.ac.in",
-      phone: "6303129788",
-      department: "Chemical Engineering",
-      about:
-        "I am Sravani Cheedella from 3rd Year Chemical Engineering Department. I have one big hobby that is listening to music. I am keenly interested in entrepreneurship and am enthusiastic about exploring its various facets. ",
-    },
-    {
-      name: "Katherapaka Nikhil",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/605C797F-A4C9-40D2-BF10-C404285C117A - Katherapaka Nikhil.jpeg",
-      email: "ee22btech11028@iith.ac.in",
-      phone: "8340002233",
-      department: "Electrical Engineering",
-      about:
-        "Heyyy\u2026.This is Nikhil, Studying 2nd year B.Tech program in electrical department.My hobbies are singing,dancing,watching movies and playing sports.Channeling wisdom to inspire people and creative vision. Fascinated by tech, I unravel complexities, forging tomorrow's boundless horizons. We at Sunshine, we're dedicated to empowering you. Engaging with us doesn't signify defeat; rather, it reflects your drive to conquer hurdles by embracing diverse viewpoints. Sunshine: Guiding you to success.",
-    },
-    {
-      name: "Nidhi Raj",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20220506-WA0001 - Nidhi Raj.jpg",
-      email: "ic22btech11008@iith.ac.in",
-      phone: "7856009610",
-      department: "Industrial Chemistry",
-      about:
-        "This is Nidhi, ug mentor, music lover, like driving. I am sweet and humble person, very helpful in nature, like to interact with new people. I am interested in cricket and coding. I attended all the events and menter-mentee meet last year and I enjoyed a lot so from there I got motivation to be a part of sunshine and also I want to help my juniors in all possible way.",
-    },
-    {
-      name: "VEDANG N KAMBLE",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/CD461DF2-FE15-45A1-BACB-32573A90F1BC - Vedang N Kamble.jpeg",
-      email: "me22btech11057@iith.ac.in",
-      phone: "8010491061",
-      department: "Mechanical Engineering",
-      about:
-        "My name is Vedang Kamble from Mechanical and Aerospace Engineering department. My hobbies are reading, watching movies and I love playing badminton. I have a keen interest in Robotics and I\u2019m looking forward to have a great experience as the UG mentor.",
-    },
-    {
-      name: "Rithika Gajarla ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/20230730_151541 - Rithika Gajarla.jpg",
-      email: "bt22btech11013@iith.ac.in",
-      phone: "9000650099",
-      department: "Biotechnology and Bioinformatics",
-      about:
-        "I would describe myself as a calm, open minded person and a great listener. I am quite the introvert, so most of the time I am immersed in any book/story which catches my fancy. I also like playing the guitar and by extension, listening to music and singing along. I watch anime too. I have a interests in diverse range of fields like psychology, history, random tidbits of science, music theory, to name a few. I have no previous experiences with sunshine, but I will give my best in this position, to make sure no one feels left out.",
-    },
-    {
-      name: "Gunethra Bommineni",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/PXL_20230101_023627651~2 - Bommineni Gunethra.jpg",
-      email: "ee22btech11205@iith.ac.in",
-      phone: "9000479184",
-      department: "Electrical Engineering IC Design and Technology",
-      about:
-        'Gunethra here, Electrical Engg. IC Design and Technology Sophomore, Jack of all trades...Master of none, Tech and hardware enthusiast, talk to me about FOSS and you may lose yourself ;) Novels are my passtime(atleast they were b4 joining IITH, now I just chill with frens.) I distrohop for fun and frustration :""D I joined sunshine to meet new people create an impact in their life. At Sunshine, we\'re all about aiding you in your journey of self-discovery. Association with us do not imply an inability to address problems; rather, they demonstrate your desire to approach problems from several perspectives. ',
-    },
-    {
-      name: "Aditya Gupta ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20230820_235634 - Aditya Gupta.jpg",
-      email: "bt22btech11001@iith.ac.in",
-      phone: "8800523297",
-      department: "Biotechnology and Bioinformatics",
-      about:
-        "I'm Aditya Gupta, a dedicated individual with a passion for sketching and badminton. My ambition motivates me to excel in all aspects of life. Beyond my hobbies, I find fulfillment in mentoring juniors at Sunshine. My diverse interests span various fields, from management to pursuing research in my branch, allowing me to contribute creatively and effectively. These random words I provide reflect my eagerness to engage with novel challenges and opportunities.",
-    },
-    {
-      name: "A.Rakesh Kumar",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230503-WA0092 - Akuluru Rakesh Kumar.jpg",
-      email: "ee22btech11005@iith.ac.in",
-      phone: "8978682588",
-      department: "Electrical Engineering",
-      about:
-        "I'm an enthusiastic person who always seek for development. In my free time I do play sports, watch movies and chill with friends. I'm driven into scientific research. In the quiet chambers of compassion, sunshine's true masterpiece unfolds\u2014a healer of minds, showering light on paths once shadowed.",
-    },
-    {
-      name: "Agrim Singh",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20230311_151733 - Agrim Singh.jpg",
-      email: "ch22btech11002@iith.ac.in",
-      phone: "7006982234",
-      department: "Chemical Engineering",
-      about:
-        "Hey there. As for my hobbies, I like playing e-sports, football and dancing. I'm a social person and can get along with almost everyone. I support Sunshine because I believe that in today's time, mental health should be of utmost importance.",
-    },
-    {
-      name: "Sirigiri Bhavishya",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20230821_151041 - Sirigiri Bhavishya.jpg",
-      email: "es21btech11030@iith.ac.in",
-      phone: "9441606325",
-      department: "Engineering Science (Mathematics and Computing)",
-      about:
-        "I am basically a bit introvert person. But I am changing myself to be a person who interacts with people. I love to do swimming, watching movies. I like observing people when I am in public places because I like to analyze the situations. I am not very much interested in social media. I love the events of sunshine because I will relive from stress after the events and also love to interact with people. I want to be now on the conducting side of events.",
-    },
-    {
-      name: "T. Naga Vaishnavi",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Snapchat-924664910 - Thiriveedhi Naga Vaishnavi.jpg",
-      email: "co22btech11014@iith.ac.in",
-      phone: "9398173294",
-      department: "Computational Engineering",
-      about:
-        "I'm so happy to be a part of sunshine since supporting students when they are facing any problems gives a kinda satisfaction to me. And also sunshine helped me a lot personally when I'm facing problems. I was a buddy previously which gave me a good experience working with Sunshine. Coming to my hobbies, I don't have any ,they keep changing. I'm interested in drawing and Dance.",
-    },
-    {
-      name: "Advait Danade ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20230827_212509 - Advait Atul Danade.jpg",
-      email: "ch21btech11003@iith.ac.in",
-      phone: "9799114621",
-      department: "Chemical Engineering",
-      about:
-        "I am an enthusiastic and resilient individual, currently pursuing a B.Tech in Chemical Engineering. My hobbies include playing the guitar and maintaining an active lifestyle through regular workouts. My journey with Sunshine UG Mentorship Program has enriched my communication skills and honed my empathy. I find great fulfillment in guiding peers through challenges, fostering a supportive community. This experience has ignited my passion to serve Sunshine with dedication, aiming to contribute positively and foster mental well-being among fellow students.",
-    },
-    {
-      name: "Rishitha Surineni ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/WhatsApp Image 2023-11-13 at 22.19.01 - Rishitha Surineni.jpeg",
-      email: "cs22btech11050@iith.ac.in",
-      phone: "8008246935",
-      department: "Computer Science and Engineering",
-      about:
-        "I'm Rishitha Surineni.I find joy in reading novels, watching movies, crafting, and even indulging in a bit of dancing. Looking forward to meet many new people and build long lasting connections.",
+      about: "I'm just an another 19 year old teen trying to make the most of her life. I really love dancing and the book series Percy Jackson.I sing too sometimes. Apart from that one thing I really enjoy is talking to people. Sunshine provides me with the opportunity to connect with people which is the reason why I chose Sunshine in the first place. I previously was a UG Buddy and it was a wonderful experience.Looking forward to making more memories!"
     },
     {
       name: "Piyush Kothawade ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/MyPic - Piyush Shyam Kothawade.jpg",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/MyPic - Piyush Shyam Kothawade.jpg",
       email: "es22btech11026@iith.ac.in",
       phone: "9274996164",
       department: "Engineering Science",
-      about:
-        "Love to sing & act!! Always interested to learning something new..let it be a skill, sport, music etc.. My experience with Sunshine has been wonderful till now, & I am always there to help and support anyone if they need me. This is one of my passions to serve Sunshine.",
+      about: "Love to sing & act!! Always interested to learning something new..let it be a skill, sport, music etc.. My experience with Sunshine has been wonderful till now, & I am always there to help and support anyone if they need me. This is one of my passions to serve Sunshine."
+    },
+    {
+      name: "Sirigiri Bhavishya",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_20230821_151041 - Sirigiri Bhavishya.jpg",
+      email: "es21btech11030@iith.ac.in",
+      phone: "9441606325",
+      department: "Engineering Science (Mathematics and Computing)",
+      about: "I am basically a bit introvert person. But I am changing myself to be a person who interacts with people. I love to do swimming, watching movies. I like observing people when I am in public places because I like to analyze the situations. I am not very much interested in social media. I love the events of sunshine because I will relive from stress after the events and also love to interact with people. I want to be now on the conducting side of events."
+    },
+    {
+      name: "Pravalika namburi",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/InShot_20221227_185621103 - Namburi Pravalika.jpg",
+      email: "ic22btech11006@iith.ac.in",
+      phone: "9182078029",
+      department: "Industrial Chemistry",
+      about: " \"\"Salutations, fellow explorers of the human experience! I'm pravalika Namburi, a self-proclaimed enthusiast of all things creative, a connoisseur of obscure facts, and an unapologetic advocate for embracing life's quirks. By day, you might find me navigating the intricate world of data analysis, and by night, I transform into a culinary adventurer, concocting fusion recipes that bridge the gap between cultures. If you're up for thought-provoking conversations, spontaneous dance-offs, or embarking on impromptu journeys of discovery, then I'm your co-pilot on this exhilarating ride through existence!"
+    },
+    {
+      name: "Shreya Sridhar",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Shreya Sridhar - Shreya Sridhar.jpg",
+      email: "ic22btech11015@iith.ac.in",
+      phone: "9535128983",
+      department: "Industrial Chemistry",
+      about: "I have always been intrigued by the opportunity to interact with and lend a helping hand to others. In my role as UG Buddy last year, I was able to achieve the same. Most importantly, it prompted me to explore myself and understand who I am as an individual. I believe that there's no better way of leading a life than serving others and hence, my passion continues. My other interests include athletics, painting and reading books."
+    },
+    {
+      name: "Sharvil Shailesh Pedamkar",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/SharvilShailesh.jpg",
+      email: "ic22btech11013@iith.ac.in",
+      phone: "9372010312",
+      department: "Industrial Chemistry",
+      about: "AhoyyyI'm Sharvil Shailesh Pedamkar, Sophomore Student From IC Department.I do realize how it feels when the world is against you. Feeling someone should be there for you and hoping no one has to go through what I did motivated me to join Sunshine.I am committed to using my skills to support Sunshine's mission of providing mental health support to students.And Trust Me You Got this"
+    },
+    {
+      name: "Nidhi Raj",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20220506-WA0001 - Nidhi Raj.jpg",
+      email: "ic22btech11008@iith.ac.in",
+      phone: "7856009610",
+      department: "Industrial Chemistry",
+      about: "This is Nidhi, ug mentor, music lover, like driving. I am sweet and humble person, very helpful in nature, like to interact with new people. I am interested in cricket and coding. I attended all the events and menter-mentee meet last year and I enjoyed a lot so from there I got motivation to be a part of sunshine and also I want to help my juniors in all possible way."
     },
     {
       name: "Pravalika namburi ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20230705_135524_032 - Namburi Pravalika.jpg",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_20230705_135524_032 - Namburi Pravalika.jpg",
       email: "ic22btech11006@iith.ac.in",
       phone: "9182078029",
       department: "Industrial chemistry",
-      about:
-        '""In the grand mosaic of existence, I am pravalika, a brushstroke of commitment painted onto the canvas of life. With each passing year, I add more hues and dimensions to this ever-evolving masterpiece.',
+      about: "\"\"In the grand mosaic of existence, I am pravalika, a brushstroke of commitment painted onto the canvas of life. With each passing year, I add more hues and dimensions to this ever-evolving masterpiece."
     },
     {
-      name: "Anagha Balaji",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230721-WA0016 - Anagha Balaji.jpg",
-      email: "ee22btech11204@iith.ac.in",
-      phone: "9177753942",
-      department: "Electrical Engineering IC Design and Technology",
-      about:
-        "Hello I'm Anagha Balaji and I am a second year Btech student from the department EE : IC Design and Technology. From the moment I heard about Sunshine during my first year on campus, it caught my attention. Although I've been here for a year, this is my first time becoming a part of Sunshine. My love for art, especially sketching and painting, has been an integral aspect of my life. It's not just a hobby; it's been my solace during tough times, motivating me to encourage others to pursue their passions as well. Sunshine's mission deeply resonates with me, and I was genuinely excited to witness the positive impact it had on my fellow students in my first year on campus. I'm committed to serving Sunshine and contributing my unique qualities and interests to promote mental health awareness.",
+      name: "Dasari Ram Vasanth",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230817-WA0009 - Dasari Ram Vasanth.jpg",
+      email: "ms22btech11011@iith.ac.in",
+      phone: "8310397068",
+      department: "Materials Science and Metallurgical Engineering",
+      about: "I am a sophomore, always  looking forward to learn new things. My friend group is my strength. Chess and cricket interests me and I love to watch movies and interacting with people. I have a one year experience in sunshine as a buddy. My passion to serve sunshine is I like helping people."
     },
     {
-      name: "Antalene J",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230830-WA0025 - Antalene Jeya Sharon J.jpg",
-      email: "ee22btech11008@iith.ac.in",
-      phone: "7200372858",
-      department: "Electrical Engineering",
-      about:
-        "Hobbies include anime, games, horror movies and volleyball. Unique quality.....can't think of any... Experience with sunshine - glad to be part of the team :)",
+      name: "VEDANG N KAMBLE",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/CD461DF2-FE15-45A1-BACB-32573A90F1BC - Vedang N Kamble.jpeg",
+      email: "me22btech11057@iith.ac.in",
+      phone: "8010491061",
+      department: "Mechanical Engineering",
+      about: "My name is Vedang Kamble from Mechanical and Aerospace Engineering department. My hobbies are reading, watching movies and I love playing badminton. I have a keen interest in Robotics and I’m looking forward to have a great experience as the UG mentor."
     },
     {
-      name: "Sripadmanabha S",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_0788 - Sripadmanabha S.jpeg",
-      email: "bd22bdes11016@iith.ac.in",
-      phone: "9488831300",
-      department: "Design",
-      about:
-        "Hey there, I'm Padmanabha, a design student in my second year. I'm an adventure seeker and a travel lover who can't resist exploring new places. To discuss my interests, you might catch me gliding on my rollerblades, gazing at the stars, or organizing the next big thing. And when I'm not doing any of that, I'm probably munching away in the cafeteria.I've been told I'm a good listener, which is one of the reasons why I joined the counselling cell. It's my way of being there for others and lending a sympathetic ear. I'd be delighted to continue doing so with this organization, as long as I can make a positive impact on people's lives.",
+      name: "Chandra Prakash",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG_20230422_213324 - Chandra Prakash.jpg",
+      email: "me22btech11018@iith.ac.in",
+      phone: "8651418315",
+      department: "Mechanical and Aerospace Engineering",
+      about: "I am passionate learner and my hobbies is to keep learning and improving. Other than that I am share market investor, programmer , working with robotix club iith and is also working with sunshine as a ug mentor. My interest lies in investment, programming, in doing creative thing and entrepreneurship. The reason for working with sunshine is the work that they have done towards mental health (which is a serious issue) . I am really excited and happy that I got the opportunity here. "
     },
+    {
+      name: "Bogireddy Vishnu Vardhan Reddy",
+      photoUrl: "/team-2023/non-management/Your photo (File responses)/Screenshot_20230706_213655_Gallery - Bogireddy Vishnu Vardhan Reddy.jpg",
+      email: "me22btech11017@iith.ac.in",
+      phone: "9550860063",
+      department: "Mechanical and Aerospace Engineering",
+      about: "A good listener with a great interest in culturals.. Jst a mic and stage would be enough to fill my heart!! Values the relations and bonds the most..wanna try smtng new n crazzy...."
+    }
   ],
   "UG Mentorship Head": [
     {
