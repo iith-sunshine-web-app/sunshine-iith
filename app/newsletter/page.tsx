@@ -27,6 +27,14 @@ const magazineLinks = [
     cover: "/newsletter/Volume3cover.png",
     link: "./newsletter/Pulse-Volume-3.pdf",
   },
+  {
+    id: 4,
+    title: "Sunshine Volume #4",
+    minidescription:
+      "Mental Health is a Universal Human Right!",
+    cover: "/newsletter/Volume4cover.png",
+    link: "./newsletter/Pulse-Volume-4.pdf",
+  },
 ];
 
 const NewsletterPage = () => {
