@@ -38,7 +38,7 @@ const magazineLinks = [
 ];
 
 const NewsletterPage = () => {
-  const [currentMagazine, setCurrentMagazine] = useState(2);
+  const [currentMagazine, setCurrentMagazine] = useState(3);
 
   const navigateMagazine = (direction: string) => {
     if (direction === "next") {
