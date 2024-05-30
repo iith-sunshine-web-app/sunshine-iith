@@ -1,12 +1,6 @@
-# Sunshine IIT-H Web App
+# Sunshine IITH
 
-A comprehensive web application for Sunshine IIT-H.
-
-## Getting Started
-
-Follow these instructions to set up the project on your local machine for development and testing.
-
-### Prerequisites
+## Steps
 
 - [Node.js](https://nodejs.org/) - Developed under Node 18
 - [npm](https://www.npmjs.com/)
@@ -39,3 +33,4 @@ To start the local development server, run:
 
 ```bash
 npm run dev
+```
