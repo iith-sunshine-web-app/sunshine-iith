@@ -16,23 +16,23 @@
 const non_management = {
   "UG Buddy": [
     {
-      name: "Devansh Agrawal",
+      name: "Rishitha Pallala",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_1511~2_1 - Devansh Agrawal.jpg",
-      email: "es22btech11010@iith.ac.in",
-      phone: "9667236662",
-      department: "Engineering Science",
-      about: "Hi",
+        "/team-2024/non-management/pallalaRishitha.jpg",
+      email: "bt22btech11011@iith.ac.in",
+      phone: "9390054715",
+      department: "Biotechnology and Bioinformatics",
+      about: "I have been a buddy and member of the sunshine management team ,and currently working as one of the UG Buddy Head , I enjoy working at sunshine as it helps me to understand and work on the mental and emotional awareness of the IITH fraternity. In my free time I swim or watch a good movie.",
       head: true,
       discipline: "UG Buddies Head",
     },
     {
-      name: "Jash Jhatakia",
+      name: "Rishikesh Kasireddy",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Screenshot_20230812_213529_WhatsApp - Jhatakia Jash Jayesh.jpg",
-      email: "cs22btech11028@iith.ac.in",
-      phone: "9426023104",
-      department: "Computer Science and Engineering",
+        "/team-2024/non-management/rishikesh.jpeg",
+      email: "es23btech11033@iith.ac.in",
+      phone: "8790789379",
+      department: "Engineering Science",
       about: "Hi",
       head: true,
       discipline: "UG Buddies Head",
@@ -260,22 +260,12 @@ const non_management = {
 
   "UG Mentor": [
     {
-      name: "Riya Ann Easow",
-      photoUrl: "/team-2023/non-management/Your photo (File responses)/IMG-20230603-WA0027 - Riya Ann Easow.jpg",
-      email: "ee21btech11044@iith.ac.in",
-      phone: "9353702544",
-      department: "Electrical Engineering",
-      about: "Hi",
-      head: true,
-      discipline: "UG Mentors Head"
-    },
-    {
-      name: "Kaustubh Gupta ",
-      photoUrl: "/team-2023/non-management/Your photo (File responses)/sunshine - Kaustubh Gupta.jpg",
-      email: "es21btech11016@iith.ac.in",
-      phone: "8982255359",
-      department: "Engineering Science",
-      about: "Hi",
+      name: "K Sri Varshini",
+      photoUrl: "/team-2024/non-management/sriVarshini.jpg",
+      email: "ce22btech11026@iith.ac.in",
+      phone: "6301481867",
+      department: "Civil Engineering",
+      about: "My hobbies are playing badminton, sketching, watching dramas and movies. I was Sunshine Buddy in my 1st year and Sunshine Mentor in my 2nd year and Sunshine Mentor Head in 3rd year and I am really passionate to serve Sunshine.",
       head: true,
       discipline: "UG Mentors Head"
     },
@@ -693,13 +683,13 @@ const non_management = {
   ],
   "PG Mentor": [
     {
-      name: "Teja",
+      name: "Celina Chingmuan",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/My Pic less than 1 Mb - Bollam Teja.jpg",
-      email: "is22mtech11003@iith.ac.in",
-      phone: "8897247987",
-      department: "Electrical Engineering",
-      about: "Hi",
+        "/team-2024/non-management/celina.jpg",
+      email: "cy23mscst11009@iith.ac.in",
+      phone: "7641042749",
+      department: "Chemistry",
+      about: "I am an extrovert who likes to be around people and interact be it about books,politics,history,etc. I am always ready to have a chat with anyone. I love photography,poetry and singing.",
       head: true,
       discipline: "PG Mentors Head",
     },
@@ -968,13 +958,13 @@ const non_management = {
   ],
   "PG Buddies": [
     {
-      name: "Bharat Kumar",
+      name: "Krushna Devkar",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20230813-WA0001 - Bharat Kumar.jpg",
-      email: "ms22mtech11009@iith.ac.in",
-      phone: "8299383445",
-      department: "Material Science and Metallurgical Engineering",
-      about: "Hi",
+        "/team-2024/non-management/krushna.jpg",
+      email: "op23mtech11003@iith.ac.in",
+      phone: "8669841647",
+      department: "Ophthalmic Engineering",
+      about: "I'm Krushna Devkar from Ophthalmic Engineering department. The thing I like about Sunshine club is our shared goal of supporting each other through challenges.I believe in growing together and I'm excited for this journey with all of you. Together, we shine a little brighter each day.",
       head: true,
       discipline: "PG Buddies Head",
     },
