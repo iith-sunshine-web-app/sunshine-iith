@@ -257,7 +257,6 @@ const non_management = {
         "I am Guguloth Srinivas. I am studying second year from the department of Mechanical and Aerospace engineering.My hobbies are playing games, watching movies, dancing and browsing internet.I am a self motivater and Hard worker. I am interested in National cadet corps(NCC).I experienced with sunshine participating in departmental catch up sessions and  games.I passion to serve Sunshine.I will a point of contact of fellow batchmates and academics, social and Emotional help.Co ordinate departmental catch up sessions,fun meeting and games.Help sunshine reaches out to peers conduct departmental group sessions and activities.",
     },
   ],
-
   "UG Mentor": [
     {
       name: "K Sri Varshini",
@@ -266,6 +265,16 @@ const non_management = {
       phone: "6301481867",
       department: "Civil Engineering",
       about: "My hobbies are playing badminton, sketching, watching dramas and movies. I was Sunshine Buddy in my 1st year and Sunshine Mentor in my 2nd year and Sunshine Mentor Head in 3rd year and I am really passionate to serve Sunshine.",
+      head: true,
+      discipline: "UG Mentors Head"
+    },
+    {
+      name: "Shreya Sridhar",
+      photoUrl: "/team-2024/non-management/shreyaSridhar.jpg",
+      email: "ic22btech11015@iith.ac.in",
+      phone: "9535128983",
+      department: "Industrial Chemistry",
+      about: "I've always been intrigued by the opportunity to interact with and lend a helping hand to others. In my role as UG Mentor last year, I was able to achieve the same. Most importantly, Sunshine has prompted me to explore myself and understand who I am as an individual. I believe that there's no better way of leading a life than serving others and hence, my passion continues. My other interests include athletics, driving, reading crime novels and any form of sketching and painting.",
       head: true,
       discipline: "UG Mentors Head"
     },
