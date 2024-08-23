@@ -15,46 +15,46 @@
 const management = {
   "UG Management Head": [
     {
-      name: "Charan Teja Jeripothula",
+      name: "Nidhi Raj",
       photoUrl:
-        "/team-2023/management/Your Photo (File responses)/Charan_Teja_Jeripothula - JERIPOTHULA CHARAN TEJA.jpg",
-      email: "ce20btech11016@iith.ac.in",
-      phone: "7674844755",
-      department: "Civil Engineering",
+        "/team-2024/management/nidhi.jpg",
+      email: "ic22btech11008@iith.ac.in",
+      phone: "7856009610",
+      department: "Industrial Chemistry",
       about:
-        "I am an enthusiastic and globally-minded individual with a passion for technological advancements and cultural exploration. Driven by a perpetual desire for self-improvement, I am dedicated to learning and embracing diverse traditions. A compassionate nature fuels my eagerness to assist others, positively impacting any setting. Eager to contribute my diverse skill set and innate curiosity to a dynamic team, fostering innovation and cross-cultural understanding.",
+        "Hellooo! This is Nidhi, pre final year student of IC, music and cricket enthusiasts like driving too. I really enjoy interacting with people. I like helping people, bringing happiness to their face and motivating people. My favourite timepass in college is to spend time with my friends. My journey has started in sunshine when I was in my 2nd year as a mentor. My most heartwarming experience with sunshine was volunteering at the sunshine events. Seeing many happy faces participating in fun activites and relaxing, brought me joy. Apart from this sunshine also provides me the opportunity to connect with people. I really enjoyed being a part of sunshine. So I am here again looking forward for making more memories :)",
     },
     {
-      name: "Chinmay Kushwaha",
+      name: "Saikumar",
       photoUrl:
-        "/team-2023/management/Your Photo (File responses)/IMG-20230629-WA0043 - Chinmay Kushwaha.jpg",
-      email: "ch21btech11010@iith.ac.in",
-      phone: "6350496806",
-      department: "Chemical Engineering",
+        "/team-2024/management/saiKumar.jpg",
+      email: "ms22btech11012@iith.ac.in",
+      phone: "7382678737",
+      department: "Material Science and Metallurgical Engineering",
       about:
-        "I am passionate about aviation, but sunshine attracts me, as I was a buddy and a photography team member the previous year. When I started my journey in Sunshine, I didn't know anything about mental health at all. Still, counselors taught us the most meaningful subject of our life that completely changed my perspective towards Sunshine that pushed me to become a head and serve Sunshine for another year.",
+        "I love to play basketball.",
     },
   ],
   "PG/PhD Management Head": [
     {
-      name: "Saniya Dubey",
+      name: "Suvitti",
       photoUrl:
-        "/team-2023/management/Your Photo (File responses)/IMG-20210207-WA0078 (1) - Saniya Dubey.jpg",
-      email: "bo20resch11006@iith.ac.in",
-      phone: "9767424996",
-      department: "Biotechnology",
+        "/team-2024/management/suvitti.jpg",
+      email: "ai21resch11005@iith.ac.in",
+      phone: "8901028748",
+      department: "Artificial Intelligence",
       about:
-        "On most days I try engineering enzymes as a part of my work. If not working in the lab, you can find me reading, writing, or probably playing badminton. I am committed to Mental Health Awareness and I see Sunshine as an ideal platform for this cause. Sunshine has always been a place where I felt heard and appreciated. This year, as a team member, my goal is to ensure a safe environment for everyone where they feel valued and acknowledged at all times.",
+        "Someone who believes in living larger-than-life.",
     },
     {
-      name: "Bhanu Ganesh",
+      name: "Manu Sebastian",
       photoUrl:
-        "/team-2023/management/Your Photo (File responses)/WhatsApp Image 2023-10-28 at 11.45.31.jpeg",
-      email: "ee21resch11010@iith.ac.in",
-      phone: "9030435668",
-      department: "Electrical Engineering",
+        "/team-2024/management/manuSebastian.jpg",
+      email: "me22mtech12002@iith.ac.in",
+      phone: "9526088787",
+      department: "Mechanical and Aerospace Engineering",
       about:
-        "I like to help people facing difficulties with a calm and empathetic approach. I believe in the power of active listening and providing a safe, non-judgmental space for open conversations. My goal is to empower them to find inner strength and resilience, promoting overall well-being.",
+        "An enthusiastic and peace loving soul.Enjoys staying active, loves playing badminton, a fitness enthusuastic and an otaku personal. As someone who enjoys connecting with others, I constantly seek opportunities to engage with peers, share knowledge, and foster a positive and supportive community. A personal message to all my fellow beings, no one is alone and no problem is too difficult to solve.😊",
     },
   ],
   "Web + App development Team": [
