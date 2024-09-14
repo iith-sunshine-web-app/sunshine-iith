@@ -176,9 +176,8 @@ const Page: React.FC = () => {
           className={`group hidden lg:flex side-nav z-50 top-0 side-bar min-w-max p-3 h-screen sticky flex-col justify-between ${
             isSideNavVisible
               ? "bg-gradient-to-r from-gray-900 to-transparent"
-              : "bg-gray-900"
+              : "bg-gray-900 text-white"
           }`}
-          style={{ transition: "width 1s ease-in-out" }}
           onMouseEnter={() => {
             setIsSideNavVisible(true);
             setSideDisplay(sideShow);
@@ -194,11 +193,11 @@ const Page: React.FC = () => {
           {teamsObject.map(([teamName], index) => (
             <div
               key={teamName}
-              className="mb-1 min-w-max ml-1 hover:translate-x-1 transition-transform duration-300"
+              className="mb-1 min-w-max ml-1 hover:translate-x-1 transition-all duration-300"
             >
               <a
                 href={`#${teamName}`}
-                className={`text-lg font-bold transition-transform duration-1000`}
+                className={`text-lg font-bold transition-all duration-300`}
                 onClick={(e) => {
                   e.preventDefault();
                   scrollToSection(teamName);
