@@ -14,7 +14,7 @@
 */
 
 const non_management = {
-  "UG Buddy": [
+  "UG Buddy Heads": [
     {
       name: "Rishitha Pallala",
       photoUrl:
@@ -23,8 +23,6 @@ const non_management = {
       phone: "9390054715",
       department: "Biotechnology and Bioinformatics",
       about: "I have been a buddy and member of the sunshine management team ,and currently working as one of the UG Buddy Head , I enjoy working at sunshine as it helps me to understand and work on the mental and emotional awareness of the IITH fraternity. In my free time I swim or watch a good movie.",
-      head: true,
-      discipline: "UG Buddies Head",
     },
     {
       name: "Rishikesh Kasireddy",
@@ -34,9 +32,9 @@ const non_management = {
       phone: "8790789379",
       department: "Engineering Science",
       about: "Hi",
-      head: true,
-      discipline: "UG Buddies Head",
     },
+  ],
+  "UG Buddy": [
     {
       name: "Kondaparthy Anuraga Chandan ",
       photoUrl:
@@ -257,7 +255,7 @@ const non_management = {
         "I am Guguloth Srinivas. I am studying second year from the department of Mechanical and Aerospace engineering.My hobbies are playing games, watching movies, dancing and browsing internet.I am a self motivater and Hard worker. I am interested in National cadet corps(NCC).I experienced with sunshine participating in departmental catch up sessions and  games.I passion to serve Sunshine.I will a point of contact of fellow batchmates and academics, social and Emotional help.Co ordinate departmental catch up sessions,fun meeting and games.Help sunshine reaches out to peers conduct departmental group sessions and activities.",
     },
   ],
-  "UG Mentor": [
+  "UG Mentor Heads": [
     {
       name: "K Siri Varshini",
       photoUrl: "/team-2024/non-management/siriVarshini.jpg",
@@ -265,8 +263,6 @@ const non_management = {
       phone: "6301481867",
       department: "Civil Engineering",
       about: "My hobbies are playing badminton, sketching, watching dramas and movies. I was Sunshine Buddy in my 1st year and Sunshine Mentor in my 2nd year and Sunshine Mentor Head in 3rd year and I am really passionate to serve Sunshine.",
-      head: true,
-      discipline: "UG Mentors Head"
     },
     {
       name: "Shreya Sridhar",
@@ -275,9 +271,9 @@ const non_management = {
       phone: "9535128983",
       department: "Industrial Chemistry",
       about: "I've always been intrigued by the opportunity to interact with and lend a helping hand to others. In my role as UG Mentor last year, I was able to achieve the same. Most importantly, Sunshine has prompted me to explore myself and understand who I am as an individual. I believe that there's no better way of leading a life than serving others and hence, my passion continues. My other interests include athletics, driving, reading crime novels and any form of sketching and painting.",
-      head: true,
-      discipline: "UG Mentors Head"
     },
+  ],
+  "UG Mentor": [
     {
       name: "Pranav",
       photoUrl: "/team-2024/non-management/pranav.png",
@@ -291,7 +287,7 @@ const non_management = {
       photoUrl: "/team-2024/non-management/vedant.jpg",
       email: "bt23btech11025@iith.ac.in",
       phone: "9309429747",
-      department:  "Biotechnology and Bioinformatics",
+      department: "Biotechnology and Bioinformatics",
       about: "I like interacting with people, meeting new people, making new friends, exploring new things, I like playing football, having fun with friends. My experience with sunshine is really nice, I got opportunity to meet new people and make friends and so many skills and unforgettable memories.Always excited to meet new people, make new friends, explore new places, travel to new places, having fun with friends. Having great time with sunshine team and creating lot of memories with them. "
     },
     {
@@ -427,7 +423,7 @@ const non_management = {
       photoUrl: "/team-2024/non-management/jayanth.jpg",
       email: "co23btech11005@iith.ac.in",
       phone: "6364705707",
-      department:  "Computational Engineering",
+      department: "Computational Engineering",
       about: "I’m a volleyball enthusiast and anime aficionado with a knack for sports and a passion for mentoring. Known for my persistence and patience, I quickly adapt and learn. I currently serve as a UG mentor at Sunshine, guiding freshers through the ups and downs of their first year away from home. My goal is to help students navigate academic confusion and stress."
     },
     {
@@ -782,7 +778,7 @@ const non_management = {
       about: "Hello!I'm Neel, someone who enjoys the simple pleasures of life—sleeping and eating. While I don't have specific interests, I have a passion for discovering new things. For me, Sunshine is about fostering connections, especially with juniors as a mentor. Feel free to reach out if you'd like to connect!"
     },
   ],
-  "PG Mentor": [
+  "PG Mentor Heads": [
     {
       name: "Celina Chingmuan",
       photoUrl:
@@ -791,9 +787,9 @@ const non_management = {
       phone: "7641042749",
       department: "Chemistry",
       about: "I am an extrovert who likes to be around people and interact be it about books,politics,history,etc. I am always ready to have a chat with anyone. I love photography,poetry and singing.",
-      head: true,
-      discipline: "PG Mentors Head",
     },
+  ],
+  "PG Mentor": [
     {
       name: "Prakhar Gupta ",
       photoUrl:
@@ -1058,7 +1054,7 @@ const non_management = {
         "Hey! I am Siddhant & am pursuing PhD in Astrophysics at IIT Hyderabad.  I love reading stuff, am ever curious and exploring places. Joining sunshine has been one of the best experiences for me. The aim was always to contribute in mental health struggles in whatever little way possible. Mental Health is something we as a society does not understand well, and we hope that as a team we can make people more aware. ",
     },
   ],
-  "PG Buddies": [
+  "PG Buddy Heads": [
     {
       name: "Krushna Devkar",
       photoUrl:
@@ -1067,9 +1063,9 @@ const non_management = {
       phone: "8669841647",
       department: "Ophthalmic Engineering",
       about: "I'm Krushna Devkar from Ophthalmic Engineering department. The thing I like about Sunshine club is our shared goal of supporting each other through challenges.I believe in growing together and I'm excited for this journey with all of you. Together, we shine a little brighter each day.",
-      head: true,
-      discipline: "PG Buddies Head",
     },
+  ],
+  "PG Buddies": [
     {
       name: "Prakhar Gupta ",
       photoUrl:
