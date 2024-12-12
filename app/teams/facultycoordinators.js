@@ -1,10 +1,10 @@
 const facultyCoordinators = [
   {
-    name: "Dr. Somnath Maji",
+    name: "Dr. Neeraj Kumar",
     email: "fic.sunshine@iith.ac.in",
-    department: "Chemistry",
+    department: "Liberal Arts | Engineering Science",
     image:
-    "/../../FacultyImages/SOMNATH_MAJI.jpg",
+      "/../../FacultyImages/Neeraj_Kumar.png",
   },
 ];
 
