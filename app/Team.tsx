@@ -27,6 +27,9 @@ const MyComponent = () => {
   const handleMentorsClick = () => {
     router.push("/mentors");
   };
+  const handlewellBeingTeamClick = () => {
+    router.push("/wellBeingTeam");
+  };
 
   return (
     <div className="relative p-2 lg:p-4 bg-sky-300">
@@ -74,6 +77,12 @@ const MyComponent = () => {
               className="text-white bg-opacity-60 hover:scale-105 py-1 text-xs lg:text-xl transition-transform duration-400 hover:-translate-x-2"
             >
               Mentors
+            </button>
+            <button
+              onClick={handlewellBeingTeamClick}
+              className="text-white bg-opacity-60 hover:scale-105 py-1 text-xs lg:text-xl transition-transform duration-400 hover:-translate-x-2"
+            >
+              Well Being Team
             </button>
           </div>
         </aside>
