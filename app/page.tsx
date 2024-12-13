@@ -163,7 +163,7 @@ export default function Home() {
               <FeaturesBlocks />
 
               <MyComponent />
-              <div className="bg-gradient-to-bl from-sky-300 via-sky-300 to-blue-700 pt-2 pl-2 lg:pt-4 lg:pl-4">
+              <div className="bg-gradient-to-bl from-sky-300 via-sky-300 to-blue-500 pt-2 pl-2 lg:pt-4 lg:pl-4">
                 <AboutApp />
               </div>
 
