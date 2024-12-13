@@ -623,7 +623,7 @@ const non_management = {
       email: "ep23btech11005@iith.ac.in",
       phone: "9848920444",
       department: "Engineering Physics",
-      about: "I'm Hadassah , a sophomore from engineering physics department..As a member of the counselling club, I love helping others and fostering a supportive environment. My hobbies include listening songs, drawing and I'm also a space enthusiast. Being new to the sunshine club i feel like i still need to explore more but upto now it was a good experience where i could help others and strengthen myself..I’m committed to serve the club through promoting mental health awareness and empowering others, with a focus on empathy and connection. "
+      about: "I'm Hadassah , a sophomore from engineering physics department..As a member of the counselling club, I love helping others and fostering a supportive environment. My hobbies include listening songs, drawing and I'm also a space enthusiast. Being new to the sunshine club i feel like i still need to explore more but upto now it was a good experience where i could help others and strengthen myself..I’m committed to serve the club through promoting mental health awareness and empowering others, with a focus on empathy and connection."
     },
     {
       name: "Siddharth Pamidi",
@@ -1054,6 +1054,54 @@ const non_management = {
         "Hey! I am Siddhant & am pursuing PhD in Astrophysics at IIT Hyderabad.  I love reading stuff, am ever curious and exploring places. Joining sunshine has been one of the best experiences for me. The aim was always to contribute in mental health struggles in whatever little way possible. Mental Health is something we as a society does not understand well, and we hope that as a team we can make people more aware. ",
     },
   ],
+  "Well Being Team": [
+    {
+      name: "Devashish Prakash Singh",
+      photoUrl:
+        "/team-2024/non-management/devashish.jpg",
+      email: "cc23resch11002@iith.ac.in",
+      phone: "9140043567",
+      department: "Climate Change",
+      head : true,
+      about: "I'm an outgoing, nature-loving extrovert with a passion for leadership. As a fitness enthusiast, I enjoy yoga and badminton. Music is my stress-reliever, and I play various percussion instruments. With experience in team management and community engagement, I'm driven to break the stigma surrounding mental health discussions. Joining Sunshine aligns with my goal to foster open conversations and support. I'm eager to leverage my skills and energy to empower individuals, promote mental well-being, and create a positive impact through Sunshine's initiatives.",
+    },
+    {
+      name: "Suvitti",
+      photoUrl:
+        "/team-2024/non-management/suvitti.jpg",
+      email: "ai21resch11005@iith.ac.in",
+      phone: "8901028748",
+      department: "Artificial Intelligence",
+      about: "Someone who believes in living larger-than-life.",
+    },
+    {
+      name: "Spandana Paritala",
+      photoUrl:
+        "/team-2024/non-management/spandana.jpg",
+      email: "ce22resch11005@iith.ac.in",
+      phone: "8328023694",
+      department: "Civil Engineering",
+      about: "I am a spirited individual with a deep passion for my research field, social services and arts. I enjoy gardening and nature photography. I am a strategic thinker and a strong believer in values. I like to coach and mentor others fostering their personal and professional growth. As someone who values community harmony, I joined Sunshine after witnessing its highly beneficial programs for student well-being. I look forward to serve fellow scholars in Civil engineering department and contribute to the success of the Sunshine activities and ensuring their reach to the full potential to support the students. ",
+    },
+    {
+      name: "Jesna Fathima",
+      photoUrl:
+        "/team-2024/non-management/jesna.jpg",
+      email: "jesnafathimaofficial@gmail.com",
+      phone: "9446645769",
+      department: "Civil Engineering",
+      about: "I am a final year PhD student in Environmental Engineering. I am passionate about promoting mental health and emotional well-being, and I've been involved with Sunshine, serving as a PhD mentor and PhD mentor head in previous years. I believe empathy and being kind are some keys to supporting others and I am in a pursuit of developing emotional intelligence. I enjoy traveling, exploring new places, and connecting with people by listening to their unique stories. Looking forward to and committed to continually contribute to Sunshine, fostering a supportive community for mental health awareness and care!",
+    },
+    {
+      name: "Ankita Jain ",
+      photoUrl:
+        "/team-2024/non-management/ankitaJain.jpg",
+      email: "ht23resch11002@iith.ac.in",
+      phone: "8105211200",
+      department: "Heritage Science and Technology",
+      about: "I spend most of leisure time on books whether a hardcover a kindle or an audible, any form!I also spend my time learning the new technical changes in my domain - neuroscience.I am a patient listener, generally prefer talking to people when needed to resolve issues. I hope to make use of this characteristic in this role.",
+    },
+  ],
   "PG Buddy Heads": [
     {
       name: "Krushna Devkar",
@@ -1067,206 +1115,273 @@ const non_management = {
   ],
   "PG Buddies": [
     {
-      name: "Prakhar Gupta ",
+      name: "Mohnish Sahu",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/dp - Prakhar Gupta.jpg",
-      email: "am23mtech11006@iith.ac.in",
-      phone: "9971661771",
+        "/team-2024/non-management/mohnish.jpg",
+      email: "am24mtech11004@iith.ac.in",
+      phone: "9617286836",
       department: "Additive Manufacturing ",
-      about: "-",
+      about: "I’m Mohnish Sahu from Additive Manufacturing Department. I joined the Sunshine Team to contribute to meaningful initiatives that help others and create a positive impact in the community. Outside of academics, I enjoy bike riding, photography, and exploring new places, which fuel my creativity and keep me motivated.",
     },
     {
-      name: "Ayush Agarwal ",
+      name: "Pratiksha Kala",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_0537 - Ayush Agarwal.jpg",
-      email: "ai23mtech11002@iith.ac.in",
-      phone: "9116726399",
-      department: "Artificial Intelligence ",
-      about: "-",
-    },
-    {
-      name: "Subhakanta sethi",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/unnamed - Subhakanta Sethi.png",
-      email: "bt23mtech11011@iith.ac.in",
-      phone: "8309232134",
+        "/team-2024/non-management/pratiksha.jpg",
+      email: "bt24mtech11004@iith.ac.in",
+      phone: "6397879311",
       department: "Biotechnology",
       about:
-        "I am a person trying to live every moment of life to the fullest, by putting a little extra time in the works I like to do say drawing, gardening, cooking whenever possible. My motive to join sunshine is to see people around me happy.",
+        "I am a free-spirited, creative individual with a natural talent for making friends, spreading happiness, and enjoying life to the fullest while remaining unaffected by negativity. Highly career-oriented, I thrive in team settings and am eager to learn and grow. My purpose in joining sunshine is to help my fellow mates and spread positivity.",
     },
     {
-      name: "SOUMIK ROY",
+      name: "Dr Karpagavalli P",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20231001_151339 - Soumik Roy.jpg",
-      email: "bt23mtech11010@iith.ac.in",
-      phone: "8972329574",
-      department: "Biotechnology ",
+          "/team-2024/non-management/karpagavalli.jpg",
+      email: "mi23mtech14004@iith.ac.in",
+      phone: "9384673212",
+      department: "Center for Interdisciplinary Department (CIP)",
       about:
-        "I am Soumik Roy. I am a guy who is enthusiast about a lot of things; finance, enterpreneurship, design, coding, teaching and a lot more. I am a type of person who loves being physical present and talking to people rather than online interactions.Hobbies: I like photo- and video-graphy.Unique qualities: I believe that I have a very good eye for detecting people in stress or sadness or depression. I can easily detect when people are zoning out or masking their feelings.Experience with Sunshine: Since I'm a new member of Sunshine I don't have much to share but what I am looking forward to is; 1. Helping my friends in any situation. 2. Having a family and having fun.Reason for the passion of joining Sunshine: I have faced many bad situations in my life and have hit the rock bottom and came out of it all by myself. And I know how traumatising it is if you have to deal with all of that on your own. So I want to be the guy that I didn't get when I was low and needed someone the most.",
+        "I'm Dr. Karpagavalli P, a Homeopathic doctor with three years of clinical experience.In addition to social work, art and craft, gardening, and drawing, I enjoy listening to music, playing with my children, and spending time with my family. Together with my friends, I renovated a village and held a free medical camp there.I joined Sunshine because I am passionate about assisting others in overcoming obstacles and continuing to move forward in their lives.",
     },
     {
-      name: "Vamsi Boosa",
+      name: "Vasu katari",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20210801_161629168 - Boosa Veer Vamsi.jpg",
-      email: "ch22mtech11009@iith.ac.in",
-      phone: "9177544674",
+       "/team-2024/non-management/vasu.jpg",
+      email: "ch23mtech11012@iith.ac.in",
+      phone: "9916286518",
+      department: "Chemical Engineering",
+      about: "Hobbies: cycling, walking.",
+    },
+    {
+      name: "Jessica M. Xalxo",
+      photoUrl:
+        "/team-2024/non-management/jessica.jpg",
+      email: "ch23mtech14002@iith.ac.in",
+      phone: "9340122312",
+      department: "Chemical Engineering",
+      about: "I am a person with varied interests. I could be your overexcited niece-trying painting for the first time, or that nerdy friend-yapping about Chronicles of Narnia. I am most passionate about the people I meet and the work I do. Since I come from engineering background, I am equipped with problem solving abilities and my work enables me to meet people from different backgrounds. With Sunshine, I aim to meet people and share their sorrows. Be the person they need to get better and also solve a problem or two, while making them smile a little :) ",
+    },
+    {
+      name: "Servesh S",
+      photoUrl:
+        "/team-2024/non-management/servesh.jpg",
+      email: "ch24mtech14002@iith.ac.in",
+      phone: "7305591458",
+      department: "Chemical Engineering",
+      about: "Hii! Servesh here. I am one of the PG buddies of Sunshine Team at IITH. I have joined Sunshine to work with my fellow buddies and mentors in order to create a peaceful environment within our campus. This gives me an opportunity to interact and get many new friends so that I will try and solve if any of them have any stress or issues inside the campus. I love to explore places and eager to learn new things. Some of my hobbies are listening music, watching movies and working out.",
+    },
+    {
+      name: "Prasanth G",
+      photoUrl:
+        "/team-2024/non-management/prasanth.jpg",
+      email: "ch24mtech14006@iith.ac.in",
+      phone: "8012315072",
       department: "Chemical Engineering ",
-      about: "-",
+      about: "I love to play football, cricket. I go for running or gym in the weekends.I love taking pictures, interested in photography, film making.",
     },
     {
-      name: "Satyam Pandey ",
+      name: "Dashrath Suman",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20230910_192946 - Satyam Harinarayan Pandey.jpg",
-      email: "ch22mtech14006@iith.ac.in",
-      phone: "8154053198",
-      department: "Chemical Engineering ",
-      about: "-",
-    },
-    {
-      name: "SWARNALI BOSE ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/20230819_211033 - Swarnali Bose.jpg",
-      email: "cy23mscst11033@iith.ac.in",
-      phone: "9142778361",
-      department: "Chemistry ",
-      about:
-        "I am Swarnali Bose here from department chemistry .  The main motive behind joining the Sunshine club is to not let any fellow mates to battle difficulties and challenges alone . I believe in together growing up so looking forward to a great journey with everyone around. Everyone has some uniqueness , so mine is forgiveness and I am interested in music and art. I believe that I am a compatible person and I have compassion for other people. I will try my level best to fulfill my responsibilities and will work with dedication for this club.",
-    },
-    {
-      name: "Celina Chingmuan ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/20231020_213905 - Celina Chingmuan.jpg",
-      email: "cy23mscst11009@iith.ac.in",
-      phone: "7641042749",
+        "/team-2024/non-management/suman.jpg",
+      email: "cy24mscst11008@iith.ac.in",
+      phone: "8619648722",
       department: "Chemistry",
       about:
-        "I enjoy reading novels and poetry books. I enjoy penning down my feelings in the form of poetry. I am an extrovert and it takes me a short time to make new friends. I enjoy photography and singing.            Sunshine,true to it's name,has been the source of light for me when I was going through a rough phase in my life after joining IIT.  Sunshine saved me. I'd like to give back Sunshine a thousand folds of how much it has helped me. It is one of my biggest aims in Sunshine to let people know that Sunshine is like a friend you can lean on in good times and in bad times. \"Sunshine will always be there for you\",this is my passion and desire to inculcate in each every student's mind in IITH. ",
+        "Hello everyone! I am Dashrath from the Chemistry Department. I am an optimistic and empathetic person with a kind and helping personality.My hobbies are watching cricket and reading. I am very grateful to be part of Sunshine and looking forward to having a great experience. ",
     },
     {
-      name: "MANAS RANJAN TETE ",
+      name: "Sanjay Kumar Koli",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/manas here cropped - Manas Ranjan Tete.jpeg",
-      email: "cy22mscst11002@iith.ac.in",
-      phone: "7735287626",
-      department: "Chemistry ",
+        "/team-2024/non-management/sanjay.jpg",
+      email: "sanjay22.1997@gmail.com",
+      phone: "9716635440",
+      department: "Climate Change",
+      about: "I am Sanjay Kumar Koli, an M.Tech student in Climate Change at IIT Hyderabad and a member of the Sunshine team, dedicated to fostering mental and emotional well-being. With a background in atmospheric sciences, I combine my passion for research with a deep commitment to helping others. My unique blend of empathy, organizational skills, and curiosity drives me to contribute to initiatives like India’s first National Wellbeing Conclave. I am motivated by the belief that creating a supportive environment can empower individuals to thrive academically, emotionally, and socially.",
+    },
+    {
+      name: "Barun Kumar",
+      photoUrl:
+        "/team-2024/non-management/barun.jpg",
+      email: "cc23mtech11001@iith.ac.in",
+      phone: "7571873738",
+      department: "Climate Change",
+      about: "I am Barun Kumar Mtech 2nd Year from Department of Climate Change, IIT Hyderabad with a passion for helping others and creating a positive impact. My hobbies include swimming, playing Badminton. And I am having empathy, teamwork, and leadership skills. Being part of Sunshine has been a transformative experience, allowing me to support my peers and promote well-being. I am dedicated to fostering a compassionate and supportive campus environment.",
+    },
+    {
+      name: "Amit Vikram",
+      photoUrl:
+        "/team-2024/non-management/amit.jpg",
+      email: "em24mtech14001@iith.ac.in",
+      phone: "7357971026",
+      department: "Entrepreneurship and Management",
       about:
-        "Hey, myself Manas ,Msc Chemistry 2nd year student. I am very grateful to be the part of sunshine team where I learn a lot even though the day would be heptic but in the end we feel relaxed when we are engaged with some activities. It helps us great to built up my personality as well. As being a part of sunshine we together shine little little everyday.",
+        "Greetings everyone, I am Amit Vikram currently pursuing first year Mtech in TECHNO ENTREPRENEURSHIP. I belong to spiritual City of India i.e, Varanasi (up). My hobbies include playing cricket, listening soulful music and watching podcasts on diverse topics. And I am eager to start my journey as PG BUDDY in Sunshine IIT HYD.",
     },
     {
-      name: "Raghvendra Gupta ",
+      name: "Uday Kiran Sagar G B",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/DSCF5277 - Raghvendra Gupta.JPG",
-      email: "cs22mtech11009@iith.ac.in",
-      phone: "9039864720",
-      department: "Computer Science and Engineering ",
+        "/team-2024/non-management/sagar.jpg",
+      email: "em24mtech11004@iith.ac.in",
+      phone: "9886393444",
+      department: "Entrepreneurship and Management",
       about:
-        "I joined Sunshine because of the fact that I wanted to make an impact and to contribute back to the society in a positive way. I feel that I can connect better with people and empathise with them. I myself got benefit from the Sunshine Counsellors and they have helped me a lot to be back on track and this small contribution feels as a payback opportunity.",
+        "I am very passionate about understanding others and one's own problems. I have the patience and perseverance to understand them.Hoping use my problem solving skills in my role at Sunshine.",
     },
     {
-      name: "Soumen Sarkar",
+      name: "Maharshi G",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/soumen_sunshine - Soumen Sarkar.jpg",
-      email: "cs22mtech11011@iith.ac.in",
-      phone: "8400175851",
-      department: "Computer Science and Engineering ",
+        "/team-2024/non-management/maharshi.jpg",
+      email: "em24mtech14007@iith.ac.in",
+      phone: "9177231345",
+      department: "Entrepreneurship and Management",
       about:
-        "Hello! I'm a final year student eager to contribute positively to Sunshine. I find joy in photography and cherish friendly interactions. Let's create a vibrant and motivated environment together!",
+        "Hey hi.! I'm Maharshi, masters from the dept. of Entrepreneurship and Management. I would love listening to music and talking to people during my off times. I believe that emotional well-being is essential for academic success and personal growth. And Sunshine is where you can find yourself. ",
     },
     {
-      name: "KRITIK AGARWAL ",
+      name: "Hari Chandana",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/20230407_145615 - Kritik Agarwal.jpg",
-      email: "cs23mtech11009@iith.ac.in",
-      phone: "9401787002",
-      department: "Computer Science and Engineering ",
-      about: "-",
-    },
-    {
-      name: "Arjit Gupta ",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/20231026_114732 - Arjit Gupta.jpg",
-      email: "cs23mtech12001@iith.ac.in",
-      phone: "8859730376",
-      department: "Computer Science and Engineering ",
+        "/team-2024/non-management/harichandana.jpg",
+      email: "gs24mtech11201@iith.ac.in",
+      phone: "9059609906",
+      department: "E waste Resource Engineering and Management",
       about:
-        "Hobbies - 1)Reading novels and productive genre books 2)Playing Chess 3)Traveling. Unique Qualities- 1)Good listener 2)Focused .Interests in various fields- 1)Psychology 2)Computers and Artificial Intelligence. My Sunshine experience is extremely positive. I have met some amazing and right minded people, who are unique in their own way. I always feel happy by helping others, so Sunshine is a great platform to do that, looking forward to serve Sunshine to the best of my abilities.",
+        "I love hearing various perspectives from different people,Sunshine is the place where you feel home, I am eager to serve sunshine.",
     },
     {
-      name: "Nikhil Kumar Patel ",
+      name: "Daniel Lankapalli",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG-20231001-WA0054 - Nikhil Kumar Patel.jpg",
-      email: "cs23mtech11013@iith.ac.in",
-      phone: "7978752334",
-      department: "Computer Science and Engineering ",
-      about: "-",
-    },
-    {
-      name: "Krushna Devkar",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20231008_194322_201 - Krushna Devkar.jpg",
-      email: "op23mtech11003@iith.ac.in",
-      phone: "8669841647",
-      department: "Center for Interdisciplinary Department (CIP)",
+        "/team-2024/non-management/daniel.png",
+      email: "ph24mtech11003@iith.ac.in",
+      phone: "9989244587",
+      department: "Physics",
       about:
-        "Hello this is Krushna from Maharashtra pursuing mtech 1st year in ophthalmic engineering. I like to read books and playing cricket. I really love to interact with people. I'm also a gym freak. I love the idea of sunshine where people are standing for others who are in need and it is a Nobel cause as mental health is concerning topic this days. I am happy to be a part of the sunshine family and looking forward to have a great experience.",
+        "Hi , I'm Daniel. I enjoy video games, music and reading short stories. I believe in the necessity of a being part of a positive atmosphere and help spread awareness regarding mental health ; thus am happy to be a part of the Sunshine family.",
     },
     {
-      name: "Arshad Adil P T ",
+      name: "Rohan Pattanayak",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/My Photo - Arshad Adil P T (1).jpg",
-      email: "pb23mtech11001@iith.ac.in",
-      phone: "9207211680",
-      department: "Center for Interdisciplinary Department (CIP)",
-      about: "-",
-    },
-    {
-      name: "Neelay Prabhu",
-      photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/31824 -  - 5vv - Neelay Rukmangat Prabhu.jpg",
-      email: "ce23mtech14006@iith.ac.in",
-      phone: "9820258943",
-      department: "Civil Engineering ",
+        "/team-2024/non-management/rohan.jpg",
+      email: "ph24mscst11027@iith.ac.in",
+      phone: "6372502927",
+      department: "Physics",
       about:
-        "Hello everyone! I'm Neelay Prabhu, and I'm a MTech 1st year student in Civil Engineering Department my specialization is in Geotechnical Engineering.I'm an enthusiastic individual with diverse interests and a passion for mental wellness. My hobbies range from playing diferent sports like cricket ,football and handball. I thrive on exploring new fields of knowledge. I have found fulfillment in my experience with Sunshine, a mental wellness club, where I've learned the importance of self-care and supporting others. My genuine enthusiasm and dedication to serve Sunshine's mission drive me to make a positive impact on people's lives through mental health initiatives.",
+        "I enjoy visiting new places and exploring new experiences. I consider myself a good listener and believe that many of the problems we face could be eased if we felt heard and acknowledged. That belief is what inspired me to join Sunshine.",
     },
     {
-      name: "Akhil Kumar Donka",
+      name: "Ambili P.V",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/IMG_20231025_121115 - Akhil Kumar Donka.jpg",
-      email: "ee22mtech02003@iith.ac.in",
-      phone: "9340146989",
-      department: "Electrical Engineering",
+        "/team-2024/non-management/ambili.jpg",
+      email: "ambilijayeshpv@gmail.com",
+      phone: "9495253828",
+      department: "Physics",
       about:
-        "I am a curious driven person with a very practical outlook towards life. Playing football and reading books are my hobbies. Being part of sunshine club, I want to come out as a good human being who could connect with people easily and help them when needed.",
+        "Hobbies include reading and drawing.  I'm  a good listener and believe that I can provide support to my peers and be available for them when in need, which motivated me to join sunshine. Also interested in interacting with many new people and working as a team.",
     },
     {
-      name: "Bhuwanaditya V",
+      name: "Krishnendu P",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/2688-2023 - Bhuwanaditya V (1).jpg",
-      email: "ms23mtech11004@iith.ac.in",
-      phone: "8825581914",
-      department: "Materials Science and Metallurgical Engineering",
+        "/team-2024/non-management/krishnendu.jpg",
+      email: "ph24mscst11016@iith.ac.in",
+      phone: "8078705616",
+      department: "Physics",
       about:
-        "I am Bhuwanaditya V from M.Tech 1st MSME department. I come from Tamil Nadu. My hobbies are reading Books, watching Football and collecting different football jerseys. My first experience with sunshine was at freshers orientation and i felt very relaxed after i attended the event i liked a lot of things at the event like games. I am an empathetic person who is kind and passionate to always help others. I am a good listener which i can put into use and help others.",
+        "I like interacting with people, having different kind of dialogues and know different perspectives. I have been part of NSS during my school and UG and it has helped me a lot to  grow as a person.I am passionate about mental health and enjoy helping others.  I am a good listener and love learning about different ways to help people feel better. I'm excited to be part of Sunshine, where I can contribute to promoting mental wellness and supporting those in need.",
     },
     {
-      name: "Manu Sebastian ",
+      name: "Janna PT",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/20230301_140405 - Manu Sebastian.jpg",
-      email: "me22mtech12002@iith.ac.in",
-      phone: "9526088787",
-      department: "Mechanical and Aerospace Engineering ",
-      about: "-",
+        "/team-2024/non-management/janna.png",
+      email: "ph24mscst11039@iith.ac.in",
+      phone: "9074881332",
+      department: "Physics",
+      about:
+        "I'm Janna pt, from physics department. I'm here as a Sunshine pg buddy, and this is a vibrant community of individual. I believe I can stand by others, sharing in their joy and offering comfort in their sorrow.  I find my joy in the pages of book and the melodies in the songs.",
     },
     {
-      name: "Sudar Oli M",
+      name: "K Anjali Ranjith ",
       photoUrl:
-        "/team-2023/non-management/Your photo (File responses)/Screenshot_20231027-155949-441 - Sudar Oli M (3).png",
-      email: "op23mtech11005@iith.ac.in",
-      phone: "8428090141",
+       "/team-2024/non-management/anjali.jpg",
+      email: "ph24mtech11014@iith.ac.in",
+      phone: "9447406974",
+      department: "Physics",
+      about:
+        "I am deeply passionate about mental health advocacy and supporting initiatives that promote well-being. My interests span psychology, self-improvement, and creative expression, which I believe are key components of personal growth. I’ve had the privilege of working with Sunshine, a council dedicated to mental health, where I've gained valuable insights into the challenges individuals face and the importance of compassionate support. My goal is to continue contributing to Sunshine’s mission by fostering awareness, offering empathy, and helping others navigate their mental health journeys with understanding and care.",
+    },
+    {
+      name: "Hemanth Kumar Pamanji",
+      photoUrl:
+        "/team-2024/non-management/hemanth.jpg",
+      email: "ph24mtech11008@iith.ac.in",
+      phone: "6309893029",
+      department: "Physics",
+      about:
+        "Hey there! I'm Hemanth from M.Tech-QSD, now working as a PG Buddy in Sunshine to help people around. I love playing tennis, music, photography and making friends. Wanna know more? Hit me up, just to chat!",
+    },
+    {
+      name: "Sruthy Krishna",
+      photoUrl:
+        "/team-2024/non-management/sruthy.jpg",
+      email: "mi23mtech14008@iith.ac.in",
+      phone: "8304089477",
+      department: "Medical Device Innovation",
+      about: "I am a doctor and engineer dedicated to innovating healthcare solutions through technology. My hobbies, like glass painting and writing English poems, showcase my creativity and love for expression. As a PG Buddy in the Sunshine Club, I can support student well-being, offering guidance and empathy during challenging times. My experiences in both healthcare and engineering fuel my passion for helping others, and I am committed to contributing to Sunshine’s mission of fostering a positive and supportive environment for students.",
+    },
+    {
+      name: "Dr. Rucha T Jaipurkar",
+      photoUrl:
+        "/team-2024/non-management/rucha.jpg",
+      email: "mi23mtech14007@iith.ac.in",
+      phone: "9834738878",
+      department: "Medical Device Innovation",
+      about: "I am a compassionate individual with a strong background in dentistry and a keen interest in innovation, entrepreneurship, and mental health awareness. My hobbies, including  gardening and reading books, help me stay grounded and continuously curious about the world. Having engaged with Sunshine's initiatives, I have developed a deeper understanding of the importance of fostering mental well-being. I’m eager to support Sunshine in creating a positive and inclusive environment for everyone. ",
+    },
+    {
+      name: "Kartik Sonawani",
+      photoUrl:
+        "/team-2024/non-management/kartik.jpg",
+      email: "mi24mtech11003@iith.ac.in",
+      phone: "7020247256",
+      department: "Medical Device Innovation",
+      about: "I am Kartik Dinesh Sonawani, a dedicated and passionate individual who loves working with Sunshine to create a positive and supportive community. I enjoy helping others, solving problems, and working as part of a team. Sunshine has given me the opportunity to connect with people and contribute to its mission. I am committed to bringing energy, kindness, and teamwork to everything I do for Sunshine, making it a place where everyone feels valued and cared for.",
+    },
+    {
+      name: "Falak Patel",
+      photoUrl:
+        "/team-2024/non-management/falak.jpg",
+      email: "mi24mtech14001@iith.ac.in",
+      phone: "7506287272",
+      department: "Medical Device Innovation",
+      about: "I am passionate about supporting people in achieving their best. I enjoy watching Formula 1 & playing chess is another activity I cherish, as it helps sharpen my problem-solving skills and decision-making.Other interests include anime, geopolitics, finance.With a strong belief in teamwork and dedication, I strive to contribute positively to Sunshine and its mission.",
+    },
+    {
+      name: "Pudi Bhanu Swaroop",
+      photoUrl:
+        "/team-2024/non-management/swaroop.jpg",
+      email: "p.b.swaroop@gmail.com",
+      phone: "9848692719",
       department: "Ophthalmic Engineering ",
       about:
-        "My hobbies includes reading books, making crafts, sewing and crochet. I'm easily adaptable to any situation and to the people which I consider as my unique quality. It's really a good experience to work with many people in sunshine. Looking forward to do have a great time with the team",
+        "My hobbies playing cricket and Reading Books.I am just a normal and equal guy like everyone.",
+    },
+    {
+      name: "K S Varun Reddy ",
+      photoUrl:
+        "/team-2024/non-management/varunKS.jpg",
+      email: "op24mtech11003@iith.ac.in",
+      phone: "9168091300",
+      department: "Ophthalmic Engineering ",
+      about:
+        "Hi my name is Varun. My hobbies include playing basketball, exercising. My unique trait is to not panic under difficult situations. My experience with Sunshine has been great so far. I have met many new people and formed good connections with like minded people. My passion to serve sunshine is essentially to help a person who might need help but may not be in a situation to ask help.",
+    },
+    {
+      name: "Palli teja",
+      photoUrl:
+        "/team-2024/non-management/tejaPalli.jpg",
+      email: "sm24mtech14002@iith.ac.in",
+      phone: "7675849547",
+      department: "Smart Mobility",
+      about:
+        "I am a passionate and empathetic individual who thrives on building connections and fostering a supportive community. My hobbies include reading, exploring new cultures, and engaging in creative pursuits . I have a strong interest in mental health awareness and interpersonal growth, which aligns perfectly with Sunshine's vision. As a PG Buddy, I cherish the opportunity to guide and support students, helping them navigate challenges and celebrate their successes. My prior experience with Sunshine has deepened my commitment to creating a welcoming environment, and I am dedicated to making a positive impact on the IITH community.",
     },
   ],
   "PHD Buddies": [

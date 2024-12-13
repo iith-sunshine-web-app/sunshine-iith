@@ -140,6 +140,14 @@ const Footer: React.FC = () => {
                       Mentors
                     </a>
                   </li>
+                  <li>
+                    <a
+                      className="text-gray-200 hover:text-gray-300 block pb-2 text-sm"
+                      href="/wellBeingTeam"
+                    >
+                      Well Being Team
+                    </a>
+                  </li>
                 </ul>
               </div>
             </div>

@@ -38,6 +38,12 @@ export default function Teams() {
           >
             Buddies
           </button>
+          <button
+            onClick={() => router.push("/wellBeingTeam")}
+            className="flex-1 bg-indigo-600 text-white py-2 px-4 rounded-md hover:bg-indigo-700"
+          >
+            Well-being Team
+          </button>
         </div>
       </div>
       <div className="mt-8 text-slate-700 px-2 md:px-16">
