@@ -138,6 +138,24 @@ const management = {
       about:
         " I am happy to be a part of Sunshine as Finance Core.",
     },
+    {
+      name: "Rohini Chakraborthy",
+      photoUrl: "/team-2024/management/rohini.jpg",
+      email: "bt24mtech14002@iith.ac.in",
+      phone: "9674214478",
+      department: "Biotechnology",
+      about:
+      "I love to dance and listen to music. I love to include everyone in a plan and make sure that nobody feels left out. I've just joined Sunshine management team and I'm determined to do my best.",
+    },
+    {
+      name: "Arshidha P K ",
+      photoUrl: "/team-2024/management/arshidha.jpg",
+      email: "mp24mscst14004@iith.ac.in",
+      phone: "8943324332",
+      department: "Medical Physics",
+      about:
+      "I love to travel ",
+    },
   ],
 
   "Content Team": [
@@ -266,6 +284,26 @@ const management = {
       about:
         "I'm Rohan, a sports and esports enthusiast with a unique ability to bring teams together and motivate them towards a common goal.",
     },
+    {
+      name: "S Ramakrishnan",
+      photoUrl:
+      "/team-2024/management/ramakrishnan.jpg",
+      email: "me23mtech14025@iith.ac.in",
+      phone: "8078918386",
+      department: "Mechanical and Aerospace Engineering",
+      about:
+        "I am pleased to join the Sunshine Management Team and am eager to support its mission and contribute to its success.",
+    },
+    {
+      name: "Nenavath Rahul ",
+      photoUrl:
+      "/team-2024/management/rahul.jpg",
+      email: "cy24mscst11015@iith.ac.in",
+      phone: "7893943965",
+      department: "Chemistry",
+      about:
+        "Hobbies playing volleyball ,fitness , listening songs,Teamwork ,being unity intrest as learning new things daily , shineshine is an very good team which take care of students mental care and make them into away from stress overall it's an nice team.",
+    },
   ],
   "Sunshine Newsletter Team": [
     {
@@ -319,6 +357,16 @@ const management = {
       about:
         "My hobbies include playing cricket ,working out at gym and watch movies. This is going to be my first official experience with sunshine as publicity coordinator and my passion to serve this club is as it really helps out the peaple who is really messed up with their personal mental issues and stress by conducting such an excellent stress bursting events and I want to give my 100% best to the club.",
     },
+    {
+      name: " Sreeja Naidu",
+      photoUrl:
+      "/team-2024/management/sreeja.jpg",
+      email: "ai23btech11026@iith.ac.in",
+      phone: "8179104857",
+      department: "Artificial intelligence",
+      about:
+        "I am passionate on learning new things and exploring. My hobbies include reading, cooking, and cycling. I am excited to work with the team and learn new things from my fellow teammates.",
+    },
   ],
   "Photography & Video Editorial Team": [
     {
@@ -351,7 +399,27 @@ const management = {
       about:
         "I am Happy to be member in Sunshine Core",
     },
-   
+    {
+      name: "Karan",
+      photoUrl:
+      "/team-2024/management/karan.jpg",
+      email: "la23ma11006@iith.ac.in",
+      phone: "8390172468",
+      department: "Liberal Arts",
+      about:
+        "I am Karan, a second-year Development Studies student but a videographer by passion. I have experience working with NGOs in various fields. I also work as a mentor for first-generation learners in remote areas of the Vidarbha region.But the one thing that gravitated me the most is the problem of mental health in today’s young and cultivated minds. Sunshine, which tries to bring happiness in various ways and aims to free people from the burdens of life, is what I admire the most.",
+    },
+    {
+      name: "Kailas Raj K K",
+      photoUrl:
+      "/team-2024/management/kailas.jpg",
+      email: "me23mtech14014@iith.ac.in",
+      phone: "8943083288",
+      department: "Mechanical and Aerospace Engineering",
+      about:
+        "I am a passionate photographer and a proud member of the Sunshine IIT Hyderabad. Photography allows me to capture emotions and tell stories, which aligns beautifully with Sunshine's mission to support mental well-being. Being part of this club has been a fulfilling experience, as I contribute to creating a positive environment through my lens. My dedication to both photography and mental health efforts drives me to serve Sunshine with creativity and enthusiasm.",
+    },
+    
   ],
 };
 export default management;
