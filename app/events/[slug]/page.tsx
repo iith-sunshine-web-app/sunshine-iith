@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import events from "../events";
+import {events,fetchData} from "../events";
 import Banner from "./Head";
 import Photos from "./Photos";
 

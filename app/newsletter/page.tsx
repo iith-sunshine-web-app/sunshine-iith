@@ -35,6 +35,14 @@ const magazineLinks = [
     cover: "/newsletter/Volume4cover.png",
     link: "./newsletter/Pulse-Volume-4.pdf",
   },
+  {
+    id: 5,
+    title: "Sunshine Volume #5",
+    minidescription:
+      "Proiritizing mental health at workplace!",
+    cover: "/newsletter/Volume5cover.png",
+    link: "./newsletter/Pulse-Volume-5.pdf",
+  },
 ];
 
 const NewsletterPage = () => {
