@@ -26,7 +26,7 @@ const management = {
       name: "Tejasri Namagiri",
       photoUrl: "/team-2025/management/Tejasri.jpg",
       email: "ep23btech11018@iith.ac.in",
-      // phone: "9398192300",
+      // phone: "7382678737",
       department: "Engineering Physics",
       about:
         "I'm Tejasri, passionate about creating a supportive and positive space through Sunshine. I enjoy listening to music, having meaningful conversations, and helping peers feel heard and understood.",
