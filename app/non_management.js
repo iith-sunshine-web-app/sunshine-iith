@@ -25,7 +25,7 @@ const non_management = {
     },
     {
       name: "Siddharth Pamidi",
-      photoUrl: "/team-2025/non-management/Siddharth.heic",
+      photoUrl: "/team-2025/non-management/Siddharth.jpg",
       email: "ep23btech11029@iith.ac.in",
       department: "Engineering Physics",
       about:
