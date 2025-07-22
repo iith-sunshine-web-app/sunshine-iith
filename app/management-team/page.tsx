@@ -245,7 +245,7 @@ const Page: React.FC = () => {
                         name={member.name}
                         photoUrl={member.photoUrl}
                         email={member.email}
-                        // phone={member.phone}
+                        phone={member.phone}
                         department={member.department}
                         about={member.about}
                       />
