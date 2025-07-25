@@ -7,7 +7,7 @@ interface TeamMemberProps {
   name: string;
   photoUrl: string;
   email: string;
-  phone: string;
+  phone?: string;
   about: string;
   department: string;
   head?: boolean;
