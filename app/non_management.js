@@ -6,7 +6,6 @@
       photoUrl:
         URL,
       email: EMAIL,
-      phone: PHONE,
       department: DEPT. NAME,
       about:
         ABOUT,

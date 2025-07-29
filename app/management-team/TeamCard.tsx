@@ -28,7 +28,6 @@ interface TeamMemberProps {
   name: string;
   photoUrl: string;
   email: string;
-  phone: string;
   about: string;
   department: string;
 }
@@ -37,7 +36,6 @@ const TeamMember: React.FC<TeamMemberProps> = ({
   name,
   photoUrl,
   email,
-  phone,
   about,
   department,
 }) => {

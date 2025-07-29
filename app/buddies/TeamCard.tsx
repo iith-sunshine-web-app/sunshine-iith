@@ -31,7 +31,6 @@ interface TeamMemberProps {
   name: string;
   photoUrl: string;
   email: string;
-  phone: string;
   about: string;
   department: string;
   head?: boolean;
@@ -42,7 +41,6 @@ const TeamMember: React.FC<TeamMemberProps> = ({
   name,
   photoUrl,
   email,
-  phone,
   about,
   department,
   head = false,
@@ -95,13 +93,11 @@ const TeamMember: React.FC<TeamMemberProps> = ({
               <div className="absolute top-2 right-2">
                 <IoIosStar
                   className={name + " hi w-8 h-8 text-yellow-400"}
-                  data-tooltip-id={phone}
                   data-tooltip-content={discipline}
                 />
                 {/* <Tooltip anchorSelect={`.Devansh`} place="bottom">
                   {discipline}
                 </Tooltip> */}
-                <Tooltip id={phone} />
               </div>
             )}
           </div>
@@ -126,8 +122,8 @@ const TeamMember: React.FC<TeamMemberProps> = ({
                   key="blur"
                   showArrow
                   offset={10}
-                  placement= "bottom"
-                  backdrop= "blur"
+                  placement="bottom"
+                  backdrop="blur"
                 >
                   <PopoverTrigger>
                     <button className="text-white bg-gray-600 p-2 rounded-full hidden lg:block z-0">

@@ -30,7 +30,6 @@ interface TeamMemberProps {
   name: string;
   photoUrl: string;
   email: string;
-  phone?: string;
   about: string;
   department: string;
   head?: boolean;
@@ -41,7 +40,6 @@ const TeamMember: React.FC<TeamMemberProps> = ({
   name,
   photoUrl,
   email,
-  phone,
   about,
   department,
   head = false,
@@ -94,13 +92,11 @@ const TeamMember: React.FC<TeamMemberProps> = ({
             <div className="absolute top-2 right-2">
               <IoIosStar
                 className={name + " hi w-8 h-8 text-yellow-400"}
-                data-tooltip-id={phone}
                 data-tooltip-content={discipline}
               />
               {/* <Tooltip anchorSelect={`.Devansh`} place="bottom">
                   {discipline}
                 </Tooltip> */}
-              <Tooltip id={phone} />
             </div>
           )}
         </div>
