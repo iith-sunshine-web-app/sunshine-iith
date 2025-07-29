@@ -3,7 +3,6 @@ import React from "react";
 const TeamCardCounsellors = (props: {
   name: string;
   email: string;
-  phone: string;
   image: string;
   designation: string;
 }) => {
@@ -22,7 +21,6 @@ const TeamCardCounsellors = (props: {
       <div className="mt-4">
         <p className="text-lg font-semibold text-black">{props.name}</p>
         <p className="text-gray-500">{props.email}</p>
-        <p className="text-gray-500">{props.phone}</p>
       </div>
     </div>
   );

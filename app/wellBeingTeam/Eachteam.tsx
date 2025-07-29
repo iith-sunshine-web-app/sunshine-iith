@@ -7,7 +7,6 @@ interface TeamMemberProps {
   name: string;
   photoUrl: string;
   email: string;
-  phone: string;
   about: string;
   department: string;
   head?: boolean;
@@ -41,9 +40,9 @@ const EachTeam: React.FC<EachTeamProps> = ({
         </div>
 
         <div className="flex flex-wrap justify-center">
-           {teamMembers.map((member, index) => ( 
-               <TeamMember key={index} {...member} /> 
-           ))}
+          {teamMembers.map((member, index) => (
+            <TeamMember key={index} {...member} />
+          ))}
         </div>
       </section>
     </div>
