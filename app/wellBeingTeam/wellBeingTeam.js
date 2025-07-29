@@ -1,5 +1,10 @@
 import teamMembers from "../non_management";
 import non_management from "../non_management";
+
+const wellBeingTeam = Array.isArray(non_management["Well Being Team"])
+  ? non_management["Well Being Team"]
+  : [];
+
 const teams = [
   {
     id: "well-being-team-head",
@@ -8,7 +13,9 @@ const teams = [
     teamPhotoUrl: "https://sunshine.iith.ac.in/images/about-slider/3.JPG",
     teamDescription:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui expedita perferendis unde debitis sunt reprehenderit vero asperiores tempore, officia excepturi fugit aliquam minus voluptas. At aut, voluptatum magnam, praesentium voluptatibus in explicabo vero illum nesciunt nostrum molestias saepe? Commodi, nihil. Magni ipsam, eaque impedit fuga nobis enim rem sapiente accusantium?",
-    teamMembers: non_management["Well Being Team"].filter(teamMember => teamMember["head"] === true),
+    teamMembers: wellBeingTeam.filter(
+      (teamMember) => teamMember["head"] === true
+    ),
   },
   {
     id: "well-being-team",
@@ -17,7 +24,9 @@ const teams = [
     teamPhotoUrl: "https://sunshine.iith.ac.in/images/about-slider/3.JPG",
     teamDescription:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui expedita perferendis unde debitis sunt reprehenderit vero asperiores tempore, officia excepturi fugit aliquam minus voluptas. At aut, voluptatum magnam, praesentium voluptatibus in explicabo vero illum nesciunt nostrum molestias saepe? Commodi, nihil. Magni ipsam, eaque impedit fuga nobis enim rem sapiente accusantium?",
-    teamMembers: non_management["Well Being Team"].filter(teamMember => teamMember["head"] === undefined),
+    teamMembers: wellBeingTeam.filter(
+      (teamMember) => teamMember["head"] === undefined
+    ),
   },
 ];
 

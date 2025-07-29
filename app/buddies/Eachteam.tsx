@@ -40,9 +40,10 @@ const EachTeam: React.FC<EachTeamProps> = ({
         </div>
 
         <div className="flex flex-wrap justify-center">
-          {teamMembers.map((member, index) => (
-            <TeamMember key={index} {...member} />
-          ))}
+          {Array.isArray(teamMembers) &&
+            teamMembers.map((member, index) => (
+              <TeamMember key={index} {...member} />
+            ))}
         </div>
       </section>
     </div>
