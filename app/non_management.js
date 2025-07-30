@@ -463,7 +463,7 @@ const non_management = {
       name: "SHANI KUMAR BENVANSHI ",
       photoUrl: "/team-2025/non-management/Shani.jpg",
       email: "bm24mtech11001@iith.ac.in",
-      department: "Biomedical",
+      department: "Biomedical Engineering",
       about:
         "As a postgraduate student in Biomedical Engineering and Sunshine PG Mentor, I value creating a just, honest, and collaborative environment where students can thrive emotionally and academically.",
     },
@@ -474,22 +474,6 @@ const non_management = {
       department: "Chemical Engineering",
       about:
         "A passionate chemical engineer by profession, a filmmaker by heart, a biker chasing the thrill of the road, and a sportsman living for the game, a dynamic blend of science, art, speed, and spirit.",
-    },
-    {
-      name: "Rakesh Kumar Reddy",
-      photoUrl: "/team-2025/non-management/Rakesh.jpeg",
-      email: "cs24mtech11011@iith.ac.in",
-      department: "Computer Science and Engineering ",
-      about:
-        "I am a dedicated and empathetic postgraduate student pursuing MTech in Computer Science at IIT Hyderabad. With a strong academic background and experience supporting peers as a Teaching Assistant, I am deeply committed to fostering a positive, inclusive, and mentally healthy environment for fellow students. I value active listening, empathy, and responsibility in every interaction",
-    },
-    {
-      name: "Ankit Agrawal ",
-      photoUrl: "/team-2025/non-management/Ankit1.jpg",
-      email: "cs24mtech12019@iith.ac.in",
-      department: "Computer Science and Engineering ",
-      about:
-        "Excited for being the part of the sunshine and towards the learning.",
     },
     {
       name: "Nenavath Rahul ",
@@ -512,6 +496,22 @@ const non_management = {
       email: "cy24mscst11036@iith.ac.in",
       department: "Chemistry",
       about: "A happy soul who loves listening and helping others.",
+    },
+    {
+      name: "Rakesh Kumar Reddy",
+      photoUrl: "/team-2025/non-management/Rakesh.jpeg",
+      email: "cs24mtech11011@iith.ac.in",
+      department: "Computer Science and Engineering ",
+      about:
+        "I am a dedicated and empathetic postgraduate student pursuing MTech in Computer Science at IIT Hyderabad. With a strong academic background and experience supporting peers as a Teaching Assistant, I am deeply committed to fostering a positive, inclusive, and mentally healthy environment for fellow students. I value active listening, empathy, and responsibility in every interaction",
+    },
+    {
+      name: "Ankit Agrawal ",
+      photoUrl: "/team-2025/non-management/Ankit1.jpg",
+      email: "cs24mtech12019@iith.ac.in",
+      department: "Computer Science and Engineering ",
+      about:
+        "Excited for being the part of the sunshine and towards the learning.",
     },
     {
       name: "Yashwanth Rathlavath",
@@ -565,7 +565,7 @@ const non_management = {
       name: "Srijan Arya",
       photoUrl: "/team-2025/non-management/Srijan.jpg",
       email: "mi24mtech11002@iith.ac.in",
-      department: "Mathematical and Computational Sciences",
+      department: "Medical Device Innovation",
       about:
         "I am passionate about creating a supportive space where everyone feels heard, respected, and encouraged to be themselves. I believe that open conversations can ease challenges big and small. Always here to listen without judgment, offer understanding, and help you connect with the right resources whenever you need them.",
     },
@@ -573,7 +573,7 @@ const non_management = {
       name: "KARI JYOTHI PRAKASH",
       photoUrl: "/team-2025/non-management/Prakash.png",
       email: "mi24mtech11004@iith.ac.in",
-      department: "Mathematical and Computational Sciences",
+      department: "Medical Device Innovation",
       about:
         "I am an individual who believes that self growth is about supporting and helping the people around you and gaining wisdom from their experiences.",
     },
@@ -604,7 +604,7 @@ const non_management = {
       name: "Simeon S G ",
       photoUrl: "/team-2025/non-management/Simeon.jpg",
       email: "sm24mtech11002@iith.ac.in",
-      department: "Materials Science and Metallurgical Engineering",
+      department: "Smart Mobility",
       about:
         "A curious and compassionate individual who enjoys learning new things and supporting others. My hobbies are playing badminton, cricket, and watching movies.",
     },
