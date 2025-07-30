@@ -32,10 +32,28 @@ const Page: React.FC = () => {
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
        opacity-0 m-4 mx-auto w-48"
       >
-        PG/PhD Heads
+        PG Heads
       </span>
     </span>,
     <span key={2} className="group flex items-center">
+      <FaUserCog size={20} className="inline mr-6 text-white" />
+      <span
+        className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
+       opacity-0 m-4 mx-auto w-48"
+      >
+        PhD Heads
+      </span>
+    </span>,
+    <span key={3} className="group flex items-center">
+      <FaUserCog size={20} className="inline mr-6 text-white" />
+      <span
+        className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
+       opacity-0 m-4 mx-auto w-48"
+      >
+        Finance Heads
+      </span>
+    </span>,
+    <span key={4} className="group flex items-center">
       <FaCode size={20} className="inline mr-6 text-white" />
       <span
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
@@ -44,7 +62,7 @@ const Page: React.FC = () => {
         Web App
       </span>
     </span>,
-    <span key={3} className="group flex items-center">
+    <span key={5} className="group flex items-center">
       <MdAccountBalance size={20} className="inline mr-6 text-white" />
       <span
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
@@ -53,7 +71,7 @@ const Page: React.FC = () => {
         Finance
       </span>
     </span>,
-    <span key={4} className="group flex items-center">
+    <span key={6} className="group flex items-center">
       <TfiWrite size={20} className="inline mr-6 text-white" />
       <span
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
@@ -62,7 +80,7 @@ const Page: React.FC = () => {
         Content
       </span>
     </span>,
-    <span key={5} className="group flex items-center">
+    <span key={7} className="group flex items-center">
       <ImFileOpenoffice size={20} className="inline mr-6 text-white" />
       <span
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
@@ -71,7 +89,7 @@ const Page: React.FC = () => {
         Design
       </span>
     </span>,
-    <span key={6} className="group flex items-center">
+    <span key={8} className="group flex items-center">
       <ImCogs size={20} className="inline mr-6 text-white" />
       <span
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
@@ -80,7 +98,7 @@ const Page: React.FC = () => {
         Logistics
       </span>
     </span>,
-    <span key={7} className="group flex items-center">
+    <span key={9} className="group flex items-center">
       <ImNewspaper size={20} className="inline mr-6 text-white" />
       <span
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
@@ -89,7 +107,7 @@ const Page: React.FC = () => {
         Newsletter
       </span>
     </span>,
-    <span key={8} className="group flex items-center">
+    <span key={10} className="group flex items-center">
       <RiMegaphoneFill size={20} className="inline mr-6 text-white" />
       <span
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
@@ -98,7 +116,7 @@ const Page: React.FC = () => {
         Publicity
       </span>
     </span>,
-    <span key={9} className="group flex items-center">
+    <span key={11} className="group flex items-center">
       <FaCameraRetro size={20} className="inline mr-6 text-white" />
       <span
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 
@@ -107,7 +125,7 @@ const Page: React.FC = () => {
         Photography
       </span>
     </span>,
-    <span key={10} className="group flex items-center">
+    <span key={12} className="group flex items-center">
       <PiVideoFill size={20} className="inline mr-6 text-white" />
       <span
         className="z-50 group-hover:opacity-100 transition-opacity bg-transparent px-1 text-lg text-gray-100 rounded-md absolute left-1/2 

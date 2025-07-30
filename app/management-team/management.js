@@ -28,23 +28,8 @@ const management = {
       about:
         "I'm Tejasri, passionate about creating a supportive and positive space through Sunshine. I enjoy listening to music, having meaningful conversations, and helping peers feel heard and understood.",
     },
-    {
-      name: "Hari Keerthan",
-      photoUrl: "/team-2025/management/Hari.jpg",
-      email: "me23btech11028@iith.ac.in",
-      department: "Mechanical Engineering",
-      about: ".",
-    },
   ],
-  "PG/PhD Management Head": [
-    {
-      name: "Devashish Singh",
-      photoUrl: "/team-2025/management/Devashish.jpg",
-      email: "cc23resch11002@iith.ac.in",
-      department: "Climate Change",
-      about:
-        "I'm an outgoing, nature-loving extrovert with a passion for leadership. As a fitness enthusiast, I enjoy yoga and badminton. Music is my stress-reliever, and I play various percussion instruments. With experience in team management and community engagement, I'm driven to break the stigma surrounding mental health discussions. Joining Sunshine aligns with my goal to foster open conversations and support.",
-    },
+  "PG Management Head": [
     {
       name: "Bharath",
       photoUrl: "/team-2025/management/Bharath.jpg",
@@ -54,12 +39,39 @@ const management = {
         "As a PG Management Head from EM, I help Sunshine by organizing and managing activities that create a positive space for everyone.",
     },
     {
+      name: "Pudi Bhanu Swaroop",
+      photoUrl: "/team-2025/management/Bhanu.jpg",
+      email: "op24mtech11001@iith.ac.in",
+      department: "Ophthalmic Engineering",
+      about:
+        "Leading postgraduate efforts at Sunshine, I strive to amplify student voices and concerns. I believe in creating a culture where mental health is valued and supported.",
+    },
+  ],
+  "PhD Management Head": [
+    {
+      name: "Devashish Singh",
+      photoUrl: "/team-2025/management/Devashish.jpg",
+      email: "cc23resch11002@iith.ac.in",
+      department: "Climate Change",
+      about:
+        "I'm an outgoing, nature-loving extrovert with a passion for leadership. As a fitness enthusiast, I enjoy yoga and badminton. Music is my stress-reliever, and I play various percussion instruments. With experience in team management and community engagement, I'm driven to break the stigma surrounding mental health discussions. Joining Sunshine aligns with my goal to foster open conversations and support.",
+    },
+    {
       name: "Donna",
       photoUrl: "/team-2025/management/Donna.jpg",
       email: "em25resch01001@iith.ac.in",
       department: "Entrepreneurship and Management",
       about:
         "I’m committed to promoting empathy, resilience, and open conversations within our student community",
+    },
+  ],
+  "Finance Head": [
+    {
+      name: "Hari Keerthan",
+      photoUrl: "/team-2025/management/Hari.jpg",
+      email: "me23btech11028@iith.ac.in",
+      department: "Mechanical Engineering",
+      about: ".",
     },
     {
       name: "Kishore",
@@ -68,14 +80,6 @@ const management = {
       department: "Entrepreneurship and Management",
       about:
         "Mtech student from department of Entrepreneurship and Management.I handle budgeting, expense tracking, and financial documentation for PG–PhD Sunshine activities.",
-    },
-    {
-      name: "Pudi Bhanu Swaroop",
-      photoUrl: "/team-2025/management/Bhanu.jpg",
-      email: "op24mtech11001@iith.ac.in",
-      department: "Ophthalmic Engineering",
-      about:
-        "Leading postgraduate efforts at Sunshine, I strive to amplify student voices and concerns. I believe in creating a culture where mental health is valued and supported.",
     },
   ],
   "Web + App development Team": [
@@ -163,7 +167,7 @@ const management = {
   "Sunshine Newsletter Team": [
     {
       name: "Aditya Pola",
-      photoUrl: "/team-2025/management/Aditya.jpg",
+      photoUrl: "/team-2025/management/Dummy.png",
       email: "ai24mtech02001@iith.ac.in",
       department: "Artificial Intelligence",
       about:
