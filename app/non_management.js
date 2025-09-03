@@ -610,6 +610,25 @@ const non_management = {
     },
   ],
 
+  "Well Being Team Head": [
+    {
+      name: "Ashok Kumar",
+      photoUrl: "/team-2025/non-management/Ashok.jpg",
+      email: "ce23resch01005@iith.ac.in",
+      department: "Civil Engineering",
+      about:
+        "As a PhD Scholar and PhD Well Being in the Sunshine Team, I am deeply committed to innovative research and supportive programs that enhance mental and physical health, fostering the well-being of student communities.",
+    },
+    {
+      name: "Anand Raj",
+      photoUrl: "/team-2025/non-management/Anand.jpg",
+      email: "la24resch11006@iith.ac.in ",
+      department: "Liberal Arts",
+      about:
+        "I am a PhD scholar in the Department of Liberal Arts, working on issues related to labour, science and technology, Urbanisation, youth, and migration. I believe that mental health is true health. Cheers to nurturing mental well-being!",
+    },
+  ],
+
   "Well Being Team": [
     {
       name: "Aishwarya",
