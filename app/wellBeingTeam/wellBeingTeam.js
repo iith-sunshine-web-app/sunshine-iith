@@ -13,9 +13,7 @@ const teams = [
     teamPhotoUrl: "https://sunshine.iith.ac.in/images/about-slider/3.JPG",
     teamDescription:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui expedita perferendis unde debitis sunt reprehenderit vero asperiores tempore, officia excepturi fugit aliquam minus voluptas. At aut, voluptatum magnam, praesentium voluptatibus in explicabo vero illum nesciunt nostrum molestias saepe? Commodi, nihil. Magni ipsam, eaque impedit fuga nobis enim rem sapiente accusantium?",
-    teamMembers: wellBeingTeam.filter(
-      (teamMember) => teamMember["head"] === true
-    ),
+    teamMembers: teamMembers["Well Being Team Head"],
   },
   {
     id: "well-being-team",
@@ -24,9 +22,7 @@ const teams = [
     teamPhotoUrl: "https://sunshine.iith.ac.in/images/about-slider/3.JPG",
     teamDescription:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui expedita perferendis unde debitis sunt reprehenderit vero asperiores tempore, officia excepturi fugit aliquam minus voluptas. At aut, voluptatum magnam, praesentium voluptatibus in explicabo vero illum nesciunt nostrum molestias saepe? Commodi, nihil. Magni ipsam, eaque impedit fuga nobis enim rem sapiente accusantium?",
-    teamMembers: wellBeingTeam.filter(
-      (teamMember) => teamMember["head"] === undefined
-    ),
+    teamMembers: teamMembers["Well Being Team"],
   },
 ];
 

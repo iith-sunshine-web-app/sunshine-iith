@@ -609,5 +609,91 @@ const non_management = {
         "A curious and compassionate individual who enjoys learning new things and supporting others. My hobbies are playing badminton, cricket, and watching movies.",
     },
   ],
+
+  "Well Being Team Head": [
+    {
+      name: "Ashok Kumar",
+      photoUrl: "/team-2025/non-management/Ashok.jpg",
+      email: "ce23resch01005@iith.ac.in",
+      department: "Civil Engineering",
+      about:
+        "As a PhD Scholar and PhD Well Being in the Sunshine Team, I am deeply committed to innovative research and supportive programs that enhance mental and physical health, fostering the well-being of student communities.",
+    },
+    {
+      name: "Anand Raj",
+      photoUrl: "/team-2025/non-management/Anand.jpg",
+      email: "la24resch11006@iith.ac.in ",
+      department: "Liberal Arts",
+      about:
+        "I am a PhD scholar in the Department of Liberal Arts, working on issues related to labour, science and technology, Urbanisation, youth, and migration. I believe that mental health is true health. Cheers to nurturing mental well-being!",
+    },
+  ],
+
+  "Well Being Team": [
+    {
+      name: "Aishwarya",
+      photoUrl: "/team-2025/non-management/Aishwarya.jpg",
+      email: "ai21resch11002@iith.ac.in",
+      department: "Artificial Intelligence",
+      about:
+        "As a person interested in the intersection of technology and mental health, I am here to help and learn through Sunshine.",
+    },
+    {
+      name: "Megha M",
+      photoUrl: "/team-2025/non-management/Megha.jpg",
+      email: "bm24resch01003@iith.ac.in",
+      department: "Biomedical Engineering",
+      about:
+      "I'm someone who's curious,  a little chaotic, and figuring things out as I go. I value calm moments,  real conversations, and not needing to have all the answers. There's always space here if you ever need to take a pause.",
+    },
+    {
+      name: "Krutideepa Rout",
+      photoUrl: "/team-2025/non-management/Krutideepa1.jpg",
+      email: "Bt24resch11008@iith.ac.in",
+      department: "Biotechnology and Bioinformatics",
+      about:
+      "I am a PhD scholar who enjoys exploring the beauty of science while staying deeply connected to the emotions and stories of people around me. I am a calm, compassionate, and thoughtful person who believes in creating a safe and positive space for others. Whether I’m decoding genomes or listening to someone who needs support, I always strive to bring empathy, patience, and quiet strength into everything I do.",      
+    },
+    {
+      name: "Siddhi",
+      photoUrl: "/team-2025/non-management/Siddhi1.jpg",
+      email: "bt24resch11004@iith.ac.in",
+      department: "Biotechnology and Bioinformatics",
+      about:
+        "I am a PhD student from Biotech department. I like talking to people and knowing their stories. "
+    },
+    {
+      name: "Elias, Harikrishna Manoj",
+      photoUrl: "/team-2025/non-management/Elias.jpg",
+      email: "md21b24p100001@iith.ac.in",
+      department: "Design",
+      about:
+        "An artist/designer pushing the limits of jugaad, academically ✨",
+    },
+    {
+      name: "Nadine Hasan ",
+      photoUrl: "/team-2025/non-management/Nadine.jpg",
+      email: "ee21resch16001@iith.ac.in",
+      department: "Electrical Engineering",
+      about:
+        "A 5th year Ph.D. scholar in the department of EE. I'm from Syria. "
+    },
+    {
+      name: "Charvi Tandon",
+      photoUrl: "/team-2025/non-management/Charvi.jpg",
+      email: "LA24resch01003@iith.ac.in",
+      department: "Liberal Arts",
+      about:
+        "I am passionate about moonlit skies, poetry and knowing people. You would often find me discovering the mysteries of the universe on a long night walk around campus! ",
+    },
+    {
+      name: "M Hemasundara Rao",
+      photoUrl: "/team-2025/non-management/Hemasundara.jpg",
+      email: "me23mtech12002@iith.ac.in",
+      department: "Mechanical Engineering",
+      about:
+      "I'm usually happy and helpful person"
+    },
+  ]
 };
 export default non_management;
