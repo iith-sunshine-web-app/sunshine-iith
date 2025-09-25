@@ -1,38 +1,38 @@
 const facultyRepresentatives = [
   {
-    name: "Dr. Ganesh Sambhaji Ghalme",
-    email: "ganeshghalme@ai.iith.ac.in",
+    name: "Dr. PN Karthik",
+    email: "pnkarthik@ai.iith.ac.in",
     department: "Artificial Intelligence",
     image:
-      "/../../FacultyImages/Ganesh-Ghalme.jpg",
+      "/../../FacultyImages/KarthikPN.jpg",
   },
   {
-    name: "Dr. Harikrishnan Unni",
-    email: "harikrishnan@bme.iith.ac.in",
+    name: "Dr. Subha Narayan Rath",
+    email: "subharath@bme.iith.ac.in",
     department: "Biomedical Engineering",
     image:
-      "/../../FacultyImages/Harikrishnan_Narayanan_Unni.jpg",
+      "/../../FacultyImages/SubhaNarayanRath.jpg",
   },
   {
-    name: "Dr. Himanshu Joshi",
-    email: "hjoshi@bt.iith.ac.in",
+    name: "Dr. Rahul Kumar",
+    email: "rahulk@bt.iith.ac.in",
     department: "Biotechnology",
     image:
-      "/../../FacultyImages/himanshu-joshi.jpg",
+      "/../../FacultyImages/RahulKumar.jpg",
   },
   {
-    name: "Dr. Phanindra Jarmpana",
-    email: "pjampana@che.iith.ac.in",
+    name: "Dr. Ramkarn Patne",
+    email: "ramkarn@che.iith.ac.in",
     department: "Chemical Engineering",
     image:
-      "/../../FacultyImages/jphanindra.jpg",
+      "/../../FacultyImages/Ramkarn-Patne.jpg",
   },
   {
-    name: "Dr. Ambika S",
-    email: "ambika@ce.iith.ac.in",
+    name: "Dr. Chetankumar Jalihal",
+    email: "chetankumar.jalihal@cc.iith.ac.in",
     department: "Climate Change",
     image:
-      "/../../FacultyImages/Ambika_S.jpg",
+      "/../../FacultyImages/chetankumar_jalihal.jpg",
   },
   {
     name: "Dr. Somnath Maji",
@@ -42,53 +42,53 @@ const facultyRepresentatives = [
       "/../../FacultyImages/SOMNATH_MAJI.jpg",
   },
   {
-    name: "Dr. Meenakshi",
-    email: "meenakshi@ce.iith.ac.in",
+    name: "Dr. Ambika S",
+    email: "ambika@ce.iith.ac.in",
     department: "Civil Engineering",
     image:
-      "/../../FacultyImages/meenakshi_.jpg",
+      "/../../FacultyImages/Ambika.jpg",
   },
   {
-    name: "Dr. Shirshendu Das",
-    email: "shirshendu@cse.iith.ac.in",
+    name: "Dr. Rajesh Kedia",
+    email: "rkedia@cse.iith.ac.in",
     department: "Computer Science and Engineering",
     image:
-      "/../../FacultyImages/Shirshendu_Das.jpg",
+      "/../../FacultyImages/Rajesh_Kedia.jpg",
   },
   {
-    name: "Dr. Mohammad Shahid",
+    name: "Dr. Shahid Mohammad",
     email: "mohammad.shahid@des.iith.ac.in",
     department: "Design",
     image:
       "/../../FacultyImages/shahid.png",
   },
   {
-    name: "Dr. Shubhadeep Bhattacharjee",
-    email: "shubhadeep@ee.iith.ac.in",
+    name: "Dr. Shishir Kumar",
+    email: "shishirk@ee.iith.ac.in",
     department: "Electrical Engineering",
     image:
-      "/../../FacultyImages/Shubhadeep-Bhattacharjee.jpg",
+      "/../../FacultyImages/Shishir_Kumar.jpg",
   },
   {
-    name: "Dr. Neeraj Kumar",
-    email: "neeraj.kumar@la.iith.ac.in",
+    name: "Dr. Prakhar Gupta",
+    email: "prakharg@mae.iith.ac.in",
     department: "Engineering Science",
     image:
-      "/../../FacultyImages/Neeraj_Kumar.png",
+      "/../../FacultyImages/prakhar-gupta.jpg",
   },
   {
-    name: "Dr. Kousik Sarathy",
-    email: "kousiksarathy@bme.iith.ac.in",
+    name: "Dr. Suhail Mohd. Rizvi",
+    email: "suhailr@bme.iith.ac.in",
     department: "Heritage Science & Technology",
     image:
-      "/../../FacultyImages/Kausik_Sarathy_Sridharan.jpg",
+      "/../../FacultyImages/rizvi.jpg",
   },
   {
-    name: "Dr. Rajesh Ittamalla",
-    email: "rajeshittamalla@em.iith.ac.in",
+    name: "Dr. Jayshree Patnaik",
+    email: "jpatnaik@em.iith.ac.in",
     department: "Entrepreneurship and Management",
     image:
-      "/../../FacultyImages/Rajesh_Ittamalla.jpg",
+      "/../../FacultyImages/Jayshree1.jpg",
   },
   {
     name: "Dr. Neeraj Kumar",
@@ -98,25 +98,25 @@ const facultyRepresentatives = [
       "/../../FacultyImages/Neeraj_Kumar.png",
   },
   {
-    name: "Dr. Safvan Palathingal",
-    email: "safvan@mae.iith.ac.in",
-    department: "Mechanical and Aerospace Engineering",
-    image:
-      "/../../FacultyImages/palathingal.png",
-  },
-  {
-    name: "Dr. Suresh Perumal",
-    email: "suresh@msme.iith.ac.in",
+    name: "Dr. Ashok Kamaraj",
+    email: "ashokk@msme.iith.ac.in",
     department: "Materials Science and Metallurgical Engineering",
     image:
-      "/../../FacultyImages/SURESH_PERUMAL.jpg",
+    "/../../FacultyImages/Ashok-K.jpg",
   },
   {
-    name: "Dr. Pradipto Banerjee",
-    email: "pradipto@math.iith.ac.in",
+    name: "Dr. Sameen Naqvi",
+    email: "sameen@math.iith.ac.in",
     department: "Mathematics",
     image:
-      "/../../FacultyImages/Pradipto_Banerjee.jpg",
+    "/../../FacultyImages/Sameen_Naqvi.jpg",
+  },
+  {
+    name: "Dr. SK Karthick",
+    email: "skkarthick@mae.iith.ac.in",
+    department: "Mechanical and Aerospace Engineering",
+    image:
+      "/../../FacultyImages/skkarthick.jpg",
   },
   {
     name: "Dr. Saurabh Sandilya",
@@ -126,11 +126,11 @@ const facultyRepresentatives = [
       "/../../FacultyImages/saurabh-s.jpg",
   },
   {
-    name: "Dr. Renu John",
-    email: "renujohn@bme.iith.ac.in",
+    name: "Dr. Harish Nagar Dixit",
+    email: "hdixit@mae.iith.ac.in",
     department: "Center for Interdisciplinary Programs (CIP)",
     image:
-      "/../../FacultyImages/Renu_John.jpg",
+      "/../../FacultyImages/Harish_N_Dixit.jpg",
   },
   
 ];
