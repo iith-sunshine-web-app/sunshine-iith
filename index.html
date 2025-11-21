@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="src/assets/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sunshine, IIT Hyderabad</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "sunshine-peach": "#f0bf9f",
+              "sunshine-orange": "#e59361",
+              "sunshine-deep-orange": "#d98244",
+              "sunshine-bright-orange": "#e25305",
+            },
+            animation: {
+              scroll: "scroll 40s linear infinite",
+            },
+            keyframes: {
+              scroll: {
+                "0%": { transform: "translateX(0)" },
+                "100%": { transform: "translateX(-100%)" },
+              },
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
