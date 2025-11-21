@@ -74,7 +74,7 @@ export const teamData = {
     "Faculty in Charge": [
       {
         id: 1,
-        name: "Neeraj Kumar",
+        name: "Dr. Neeraj Kumar",
         role: "FIC of Sunshine",
         email: "fic.sunshine@iith.ac.in",
         imageUrl: "/team/faculty/Neeraj_Kumar.png",
@@ -217,8 +217,8 @@ export const teamData = {
     ],
   },
 
-  Counsellors: {
-    Counsellors: [
+  "Psychological Counsellors": {
+    "Psychological Counsellors": [
       {
         id: 21,
         name: "Maria Morris",
