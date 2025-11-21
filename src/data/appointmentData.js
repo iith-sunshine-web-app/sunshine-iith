@@ -41,17 +41,17 @@ export const appointmentData = [
       {
         name: "Maria Morris",
         linkText: "83310 36081",
-        url: "https://wa.me/8331036081",
+        url: "https://wa.me/918331036081",
       }, // Creates a WhatsApp link
       {
         name: "Yukti Rastogi",
         linkText: "83310 36080",
-        url: "https://wa.me/8331036080",
+        url: "https://wa.me/918331036080",
       },
       {
         name: "Phani Bhushan",
         linkText: "83310 36082",
-        url: "https://wa.me/8331036082",
+        url: "https://wa.me/918331036082",
       },
     ],
   },
