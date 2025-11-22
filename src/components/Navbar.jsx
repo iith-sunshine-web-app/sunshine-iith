@@ -56,10 +56,11 @@ const navItems = [
     path: "/team",
     subMenu: [
       { name: "Faculties", path: "/team/Faculty" },
-      { name: "Counsellors", path: "/team/Counsellors" },
+      { name: "Psychological Counsellors", path: "/team/Psychological%20Counsellors" },
       { name: "Students", path: "/team/Students" },
     ],
   },
+  { name: "NewsLetter", path: "/newsletter" },
   { name: "Events", path: "/events" },
 ];
 

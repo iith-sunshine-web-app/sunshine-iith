@@ -11,6 +11,7 @@ import FAQPage from './pages/FAQPage.jsx';
 import EventsPage from './pages/EventsPage.jsx';
 import SupportPage from './pages/SupportPage.jsx';
 import AppointmentPage from './pages/AppointmentPage.jsx';
+import NewsletterPage from './pages/NewsLetter.jsx';
 
 const router = createBrowserRouter([
   {
@@ -44,6 +45,10 @@ const router = createBrowserRouter([
       {
         path: "appointment",
         element: <AppointmentPage />
+      },
+      {
+        path: "newsletter",
+        element: <NewsletterPage />
       },
       {
         path: "events",
