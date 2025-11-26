@@ -4,7 +4,7 @@ function HomePage() {
   const navigate = useNavigate();
   const hierarchyData = [
     { level: 'Faculty in Charge (FIC)', position: 'Faculty Member (Overall Head)', path: '/team/Faculty' },
-    { level: 'Counselling Team', position: 'Professional Psychologists & Counsellors', path: '/team/Counsellors' },
+    { level: 'Counselling Team', position: 'Professional Psychologists & Counsellors', path: '/team/Psychological%20Counsellors' },
     { level: 'Faculty Representatives', position: 'One Faculty from each Department', path: '/team/Faculty' },
     { level: 'Student Team', position: 'Mentors (PG/PhD), Buddies (UG), Well-being Representatives', path: '/team/Students' },
   ];
@@ -173,7 +173,7 @@ function HomePage() {
               <p className="text-gray-600 mb-6">
                 Connect with our professional psychologists who are here to guide you.
               </p>
-              <Link to="/team/Counsellors" className="inline-block bg-teal-600 text-white font-semibold py-3 px-8 rounded-full hover:bg-teal-700 transition-colors shadow-md">
+              <Link to="/team/Psychological%20Counsellors" className="inline-block bg-teal-600 text-white font-semibold py-3 px-8 rounded-full hover:bg-teal-700 transition-colors shadow-md">
                 View Counsellor Details
               </Link>
             </div>
