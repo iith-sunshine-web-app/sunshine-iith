@@ -33,6 +33,13 @@ const magazineLinks = [
     cover: "/data/newsletterData/Volume4cover.png",
     link: "/data/newsletterData/Pulse-Volume-4.pdf",
   },
+  {
+    id: 5,
+    title: "Fifth Edition of Pulse",
+    minidescription: "",
+    cover: "/data/newsletterData/Volume5cover.png",
+    link: "/data/newsletterData/Pulse-Volume-5.pdf",
+  },
 ];
 
 const NewsletterPage = () => {
