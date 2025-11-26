@@ -173,7 +173,7 @@ function HomePage() {
               <p className="text-gray-600 mb-6">
                 Connect with our professional psychologists who are here to guide you.
               </p>
-              <Link to="/team/Counsellors" className="inline-block bg-teal-600 text-white font-semibold py-3 px-8 rounded-full hover:bg-teal-700 transition-colors shadow-md">
+              <Link to="/team/Psychological%20Counsellors" className="inline-block bg-teal-600 text-white font-semibold py-3 px-8 rounded-full hover:bg-teal-700 transition-colors shadow-md">
                 View Counsellor Details
               </Link>
             </div>
