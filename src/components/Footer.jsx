@@ -1,4 +1,4 @@
-import sunshineLogo from "../assets/logo.png";
+import sunshineLogo from "../assets/logo(Old).png";
 import { Link } from "react-router-dom"; // Import Link
 
 function Footer() {
@@ -14,7 +14,7 @@ function Footer() {
           <div className="flex flex-col items-center md:items-start">
             <img src={sunshineLogo} alt="Sunshine Logo" className="h-20 mb-0" />
             {/* <p className="mt-0 text-sunshine-bright-orange font-bold"> */}
-            <p className="mt-0 text-white font-bold">SUNSHINE</p>
+            <p className="ml-6 mt-0 text-white font-bold">SUNSHINE</p>
             <p>The counselling cell of IITH</p>
             <div className="">{/* For Icons */}</div>
           </div>
