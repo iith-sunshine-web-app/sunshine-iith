@@ -53,6 +53,24 @@ const router = createBrowserRouter([
       {
         path: "events",
         element: <EventsPage />
+      },
+      {
+        path: "*",
+        element: (
+          <div className="flex flex-col items-center justify-center min-h-[50vh] text-center p-8">
+            <h1 className="text-4xl lg:text-5xl font-bold text-gray-800 mb-4">404</h1>
+            <h2 className="text-2xl font-semibold text-gray-600 mb-6">Page Not Found</h2>
+            <p className="text-gray-500 mb-8 max-w-md">
+              Oops! The page you are looking for doesn't exist or has been moved.
+            </p>
+            <a 
+              href="/" 
+              className="bg-teal-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-teal-700 transition-colors"
+            >
+              Go Back Home
+            </a>
+          </div>
+        )
       }
     ],
   },
